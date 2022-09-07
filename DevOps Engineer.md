@@ -12,7 +12,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 | 6 | Yes | [D6 - DevOps Engineer 6](#d6---developer-6) |
 | 7 | Yes | [D7 - DevOps Engineer 7](#d7---developer-7) |
 
-## D1 - DevOps Engineer 1
+## DOE1 - DevOps Engineer 1
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-1-dark.png">
@@ -26,7 +26,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Follows**: follows the team processes, delivering a consistent flow of features to production
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
-## D2 - DevOps Engineer 2
+## DOE2 - DevOps Engineer 2
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-2-dark.png">
@@ -40,7 +40,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
-## D3 - DevOps Engineer 3
+## DOE3 - DevOps Engineer 3
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-3-dark.png">
@@ -54,7 +54,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## D4 - DevOps Engineer 4
+## DOE4 - DevOps Engineer 4
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-4-dark.png">
@@ -68,7 +68,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## D5 - DevOps Engineer 5
+## DOE5 - DevOps Engineer 5
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-5-dark.png">
@@ -82,7 +82,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
-## D6 - DevOps Engineer 6
+## DOE6 - DevOps Engineer 6
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-6-dark.png">
@@ -96,7 +96,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Company**: makes an impact on the whole tech organization
 
-## D7 - DevOps Engineer 7
+## DOE7 - DevOps Engineer 7
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-7-dark.png">
@@ -114,7 +114,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 * [**Introduction**](README.md)
 * [**Tech Lead**](TechLead.md)
-* [**Technical Program Manager**](TechnicalProgramManager.md)
+* [**Technical Program Manager**](DeliveryDirector.md)
 * [**Engineering Manager**](EngineeringManager.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
 * [**Managing Managers**](Managing-Managers.md)
