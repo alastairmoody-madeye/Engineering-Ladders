@@ -18,7 +18,7 @@ Role also known as dev manager, is responsible for the consistent delivery, care
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Manages**: manages the team members' career, expectations, performance and level of happiness
+* **Manages**: manages team member's career, expectations, performance with and eye towards job satisfaction and productivity and company alignment
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **One Team**: makes an impact on the whole team, not just on specific parts of it
 
@@ -32,7 +32,7 @@ Role also known as dev manager, is responsible for the consistent delivery, care
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
 * **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-* **Manages**: manages the team members' career, expectations, performance and level of happiness
+* **Manages**: manages team member's career, expectations, performance with and eye towards job satisfaction and productivity and company alignment
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **One Team**: makes an impact on the whole team, not just on specific parts of it
 
@@ -46,7 +46,7 @@ Role also known as dev manager, is responsible for the consistent delivery, care
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
 * **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-* **Manages**: manages the team members' career, expectations, performance and level of happiness
+* **Manages**: manages team member's career, expectations, performance with and eye towards job satisfaction and productivity and company alignment
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Many Teams**: makes an impact not only on the whole team but also on other teams
 
