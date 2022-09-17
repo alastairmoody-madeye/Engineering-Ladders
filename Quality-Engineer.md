@@ -70,7 +70,7 @@ Role responsible for ensuring that we deilver a great, high-quality experience f
 
 * [**Introduction**](QEADME.md)
 * [**Developer**](Developer.md)
-* [**Tech Lead**](TechLead.md)
-* [**Engineering Manager**](EngineeringManager.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
+* [**Tech Lead**](Software Director.md)
+* [**Engineering Manager**](Engineering-Support.md)
+* [**Tech Lead vs Engineering Manager**](TechLead-Engineering-Support.md)
 * [**Managing Managers**](Managing-Managers.md)

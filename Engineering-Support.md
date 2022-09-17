@@ -54,7 +54,7 @@ Role also known as dev manager, is responsible for the consistent delivery, care
 
 * [**Introduction**](README.md)
 * [**Developer**](Developer.md)
-* [**Tech Lead**](TechLead.md)
+* [**Tech Lead**](Software Director.md)
 * [**Technical Program Manager**](DeliveryDirector.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
+* [**Tech Lead vs Engineering Manager**](TechLead-Engineering-Support.md)
 * [**Managing Managers**](Managing-Managers.md)

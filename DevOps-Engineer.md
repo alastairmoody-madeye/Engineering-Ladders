@@ -1,23 +1,23 @@
-# Software Engineer
+# DevOps Engineer
 
 Role also known as programmer or software engineer, requires a deep level of technical expertise.
 
 | Level | Senior | Position |
 | :---: | :---: | :---: |
-| 1 | No | [SE - Software Engineer 1](#d1---software-engineer-1) |
-| 2 | No | [SE - Software Engineer 2](#d2---software-engineer-2) |
-| 3 | No | [SE - Software Engineer 3](#d3---software-engineer-3) |
-| 4 | Yes | [SE - Software Engineer 4](#d4---software-engineer-4) |
-| 5 | Yes | [SE - Software Engineer 5](#d5---software-engineer-5) |
-| 6 | Yes | [SE - Software Engineer 6](#d6---software-engineer-6) |
-| 7 | Yes | [SE - Software Engineer 7](#d7---software-engineer-7) |
+| 1 | No | [D1 - DevOps Engineer 1](#d1---developer-1) |
+| 2 | No | [D2 - DevOps Engineer 2](#d2---developer-2) |
+| 3 | No | [D3 - DevOps Engineer 3](#d3---developer-3) |
+| 4 | Yes | [D4 - DevOps Engineer 4](#d4---developer-4) |
+| 5 | Yes | [D5 - DevOps Engineer 5](#d5---developer-5) |
+| 6 | Yes | [D6 - DevOps Engineer 6](#d6---developer-6) |
+| 7 | Yes | [D7 - DevOps Engineer 7](#d7---developer-7) |
 
-## SE1 - Software Engineer 1
+## DOE1 - DevOps Engineer 1
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/software-engineer-1-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/software-engineer-1.png">
-  <img alt="Software Engineer 1" src="/charts/software-engineer-1.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-1-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-1.png">
+  <img alt="DevOps Engineer 1" src="/charts/developer-1.png">
 </picture>
 
 * **Adopts**: actively learns and adopts the technology and tools defined by the team
@@ -26,12 +26,12 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Follows**: follows the team processes, delivering a consistent flow of features to production
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
-## SE2 - Software Engineer 2
+## DOE2 - DevOps Engineer 2
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/software-engineer-2-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/software-engineer-2.png">
-  <img alt="Software Engineer 2" src="/charts/software-engineer-2.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-2-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-2.png">
+  <img alt="DevOps Engineer 2" src="/charts/developer-2.png">
 </picture>
 
 * **Adopts**: actively learns and adopts the technology and tools defined by the team
@@ -40,12 +40,12 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
-## SE3 - Software Engineer 3
+## DOE3 - DevOps Engineer 3
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/software-engineer-3-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/software-engineer-3.png">
-  <img alt="Software Engineer 3" src="/charts/software-engineer-3.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-3-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-3.png">
+  <img alt="DevOps Engineer 3" src="/charts/developer-3.png">
 </picture>
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
@@ -54,12 +54,12 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## SE4 - Software Engineer 4
+## DOE4 - DevOps Engineer 4
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/software-engineer-4-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/software-engineer-4.png">
-  <img alt="Software Engineer 4" src="/charts/software-engineer-4.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-4-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-4.png">
+  <img alt="DevOps Engineer 4" src="/charts/developer-4.png">
 </picture>
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
@@ -68,12 +68,12 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## SE5 - Software Engineer 5
+## DOE5 - DevOps Engineer 5
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/software-engineer-5-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/software-engineer-5.png">
-  <img alt="Software Engineer 5" src="/charts/software-engineer-5.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-5-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-5.png">
+  <img alt="DevOps Engineer 5" src="/charts/developer-5.png">
 </picture>
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
@@ -82,12 +82,12 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
-## SE6 - Software Engineer 6
+## DOE6 - DevOps Engineer 6
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/software-engineer-6-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/software-engineer-6.png">
-  <img alt="Software Engineer 6" src="/charts/software-engineer-6.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-6-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-6.png">
+  <img alt="DevOps Engineer 6" src="/charts/developer-6.png">
 </picture>
 
 * **Creates**: designs and creates new technologies that are widely used either by internal or external teams
@@ -96,12 +96,12 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Company**: makes an impact on the whole tech organization
 
-## SE7 - Software Engineer 7
+## DOE7 - DevOps Engineer 7
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/software-engineer-7-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/software-engineer-7.png">
-  <img alt="Software Engineer 7" src="/charts/software-engineer-7.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/charts/developer-7-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/charts/developer-7.png">
+  <img alt="DevOps Engineer 7" src="/charts/developer-7.png">
 </picture>
 
 * **Creates**: designs and creates new technologies that are widely used either by internal or external teams
@@ -113,8 +113,8 @@ Role also known as programmer or software engineer, requires a deep level of tec
 # Other Pages
 
 * [**Introduction**](README.md)
-* [**Tech Lead**](TechLead.md)
+* [**Tech Lead**](Software Director.md)
 * [**Technical Program Manager**](DeliveryDirector.md)
-* [**Engineering Manager**](EngineeringManager.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
+* [**Engineering Manager**](Engineering-Support.md)
+* [**Tech Lead vs Engineering Manager**](TechLead-Engineering-Support.md)
 * [**Managing Managers**](Managing-Managers.md)

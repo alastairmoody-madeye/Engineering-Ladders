@@ -71,6 +71,6 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 * [**Introduction**](README.md)
 * [**Developer**](Developer.md)
 * [**Technical Program Manager**](DeliveryDirector.md)
-* [**Engineering Manager**](EngineeringManager.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-EngineeringManager.md)
+* [**Engineering Manager**](Engineering-Support.md)
+* [**Tech Lead vs Engineering Manager**](TechLead-Engineering-Support.md)
 * [**Managing Managers**](Managing-Managers.md)
