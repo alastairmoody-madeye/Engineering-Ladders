@@ -69,7 +69,7 @@ Role responsible for engineering the successful completion of projects / initiat
 
 * [**Introduction**](README.md)
 * [**Developer**](Developer.md)
-* [**Tech Lead**](Software Director.md)
+* [**Tech Lead**](Software-Director.md)
 * [**Engineering Manager**](Engineering-Support.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-Engineering-Support.md)
 * [**Managing Managers**](Managing-Managers.md)

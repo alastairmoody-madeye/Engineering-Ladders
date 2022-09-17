@@ -1,19 +1,19 @@
-# Qualty Director
+# Quality Director
 
 Role responsible for defining the strategic direction and team member support for quality engineering. They work with users, engineers, stakeholders, industry experts, market researchers, and perform research in order to define the best path forward for our quality engineering efforts.
 
-| Level | Senior | Position |
-| :---: | :---: | :---: |
-| 5 | Yes | [PE5 - Product Engineer 5](#tpm5---product-engineer-5) |
-| 6 | Yes | [PE6 - Product Engineer 6](#tpm6---product-engineer-6) |
-| 7 | Yes | [PE7 - Product Engineer 7](#tpm7---product-engineer-7) |
+| Level | Position |
+| :---: | :---: |
+| 5 | [QD5 - Quality Director 5](#qd5---quality-director-5) |
+| 6 | [QD6 - Quality Director 6](#qd6---quality-director-6) |
+| 7 | [QD7 - Quality Director 7](#qd7---quality-director-7) |
 
-## PE5 - Product Engineer 5
+## QD5 - Quality Director 5
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/technicalprogrammanager-5-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="/charts/technicalprogrammanager-5.png">
-  <img alt="Product Engineer 5" src="/charts/technicalprogrammanager-5.png">
+  <img alt="Quality Director 5" src="/charts/technicalprogrammanager-5.png">
 </picture>
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new quality engineering technologies to the team
@@ -22,12 +22,12 @@ Role responsible for defining the strategic direction and team member support fo
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
-## PE6 - Product Engineer 6
+## QD6 - Quality Director 6
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/technicalprogrammanager-6-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="/charts/technicalprogrammanager-6.png">
-  <img alt="Product Engineer 6" src="/charts/technicalprogrammanager-6.png">
+  <img alt="Quality Director 6" src="/charts/technicalprogrammanager-6.png">
 </picture>
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
@@ -36,12 +36,12 @@ Role responsible for defining the strategic direction and team member support fo
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Company**: makes an impact on the whole tech organization
 
-## PE7 - Product Engineer 7
+## QD7 - Quality Director 7
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/technicalprogrammanager-7-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="/charts/technicalprogrammanager-7.png">
-  <img alt="Product Engineer 7" src="/charts/technicalprogrammanager-7.png">
+  <img alt="Quality Director 7" src="/charts/technicalprogrammanager-7.png">
 </picture>
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
@@ -54,7 +54,7 @@ Role responsible for defining the strategic direction and team member support fo
 
 * [**Introduction**](README.md)
 * [**Developer**](Developer.md)
-* [**Tech Lead**](Software Director.md)
+* [**Tech Lead**](Software-Director.md)
 * [**Engineering Manager**](Engineering-Support.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-Engineering-Support.md)
 * [**Managing Managers**](Managing-Managers.md)

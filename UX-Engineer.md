@@ -113,7 +113,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 # Other Pages
 
 * [**Introduction**](README.md)
-* [**Tech Lead**](Software Director.md)
+* [**Tech Lead**](Software-Director.md)
 * [**Technical Program Manager**](DeliveryDirector.md)
 * [**Engineering Manager**](Engineering-Support.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-Engineering-Support.md)

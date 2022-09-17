@@ -4,13 +4,13 @@ Role also known as programmer or software engineer, requires a deep level of tec
 
 | Level | Senior | Position |
 | :---: | :---: | :---: |
-| 1 | No | [SE - Software Engineer 1](#d1---software-engineer-1) |
-| 2 | No | [SE - Software Engineer 2](#d2---software-engineer-2) |
-| 3 | No | [SE - Software Engineer 3](#d3---software-engineer-3) |
-| 4 | Yes | [SE - Software Engineer 4](#d4---software-engineer-4) |
-| 5 | Yes | [SE - Software Engineer 5](#d5---software-engineer-5) |
-| 6 | Yes | [SE - Software Engineer 6](#d6---software-engineer-6) |
-| 7 | Yes | [SE - Software Engineer 7](#d7---software-engineer-7) |
+| 1 | No | [SE - Software Engineer 1](#se1---software-engineer-1) |
+| 2 | No | [SE - Software Engineer 2](#se2---software-engineer-2) |
+| 3 | No | [SE - Software Engineer 3](#se3---software-engineer-3) |
+| 4 | Yes | [SE - Software Engineer 4](#se4---software-engineer-4) |
+| 5 | Yes | [SE - Software Engineer 5](#se5---software-engineer-5) |
+| 6 | Yes | [SE - Software Engineer 6](#se6---software-engineer-6) |
+| 7 | Yes | [SE - Software Engineer 7](#se7---software-engineer-7) |
 
 ## SE1 - Software Engineer 1
 
@@ -113,7 +113,7 @@ Role also known as programmer or software engineer, requires a deep level of tec
 # Other Pages
 
 * [**Introduction**](README.md)
-* [**Tech Lead**](Software Director.md)
+* [**Tech Lead**](Software-Director.md)
 * [**Technical Program Manager**](DeliveryDirector.md)
 * [**Engineering Manager**](Engineering-Support.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-Engineering-Support.md)

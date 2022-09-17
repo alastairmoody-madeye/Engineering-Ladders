@@ -10,7 +10,7 @@ Role responsible for working with business leaders, industry experts, customers,
 | 4 | No | [RE4 - Product Engineer 4](#pe4---product-engineer-4) |
 
 
-## RE1 - Product Engineer 1
+## PE1 - Product Engineer 1
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/product-engineer-1.png">
@@ -24,7 +24,7 @@ Role responsible for working with business leaders, industry experts, customers,
 * **Follows**: follows the team processes, delivering a consistent flow of requirements that result in production enhancements
 * **Subsystem**: makes an impact on one or more product / platform subsystems
 
-## RE2 - Product Engineer 2
+## PE2 - Product Engineer 2
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/product-engineer-2.png">
@@ -38,7 +38,7 @@ Role responsible for working with business leaders, industry experts, customers,
 * **Enforces**: enforces the team requirements engineering processes, making sure everybody understands the benefits and tradeoffs
 * **Subsystem**: makes an impact on one or more product / platform subsystems
 
-## RE4 - Product Engineer 4
+## PE4 - Product Engineer 4
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/product-engineer-4.png">
@@ -56,7 +56,7 @@ Role responsible for working with business leaders, industry experts, customers,
 
 * [**Introduction**](README.md)
 * [**Developer**](Developer.md)
-* [**Tech Lead**](Software Director.md)
+* [**Tech Lead**](Software-Director.md)
 * [**Engineering Manager**](Engineering-Support.md)
 * [**Tech Lead vs Engineering Manager**](TechLead-Engineering-Support.md)
 * [**Managing Managers**](Managing-Managers.md)
