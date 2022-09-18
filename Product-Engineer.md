@@ -18,11 +18,7 @@ Role responsible for working with business leaders, industry experts, customers,
 
 ## PE1 - Product Engineer 1
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/product-engineer-1.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/product-engineer-1.png">
-  <img alt="Product Engineer 1" src="/charts/product-engineer-1.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-PE1.png "Product Engineer 1")
 
 * **Adopts**: actively learns and adopts the technology and tools defined by the team
 * **Enhances**: successfully specifies requirements for bug fixes and enhancements to existing features
@@ -32,11 +28,7 @@ Role responsible for working with business leaders, industry experts, customers,
 
 ## PE2 - Product Engineer 2
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/product-engineer-2.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/product-engineer-2.png">
-  <img alt="Product Engineer 2" src="/charts/product-engineer-2.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-PE2.png "Product Engineer 2")
 
 * **Adopts**: actively learns and adopts the requirements methodologies and tools defined by the team
 * **Designs**: specifies requirements for medium to large size enhancements or new capabilities 
@@ -46,11 +38,7 @@ Role responsible for working with business leaders, industry experts, customers,
 
 ## PE4 - Product Engineer 4
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/product-engineer-4.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/product-engineer-4.png">
-  <img alt="Product Engineer 3" src="/charts/product-engineer-4.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-PE3.png "Product Engineer 3")
 
 * **Specializes**: is the go-to person for the requirements methodologies and tools used by the team
 * **Designs**: defines and documents requirements for medium to large size enhancements or new capabilities

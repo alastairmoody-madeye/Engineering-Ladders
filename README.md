@@ -1,19 +1,16 @@
 # Introduction
 
-This framework allows managers and directors to have meaningful conversations with engineers about the expectations of each position and how to plan for the next step in their career path at Layr. It may be easy to conclude that the Layr Engineering Paths represent a structural hierarchy. It is more beneficial to imagine an inverse triangle where the engineers who are producing software related things (code, tests, requirements, delivery models) are supported by directors and managers who are producing plans for leveling up engineers.
+This framework allows managers and directors to have meaningful conversations with engineers about the expectations of each position and how to plan for the next step in their career path at Layr. It may be easy to conclude that the Layr Engineering Ladders represent a structural hierarchy. It is more beneficial to imagine an inverse triangle where the engineers who are workign together to producie software related things (code, tests, requirements, delivery models) are supported by directors who are primarily focused on leveling up the team.
 
-Although the framework uses roles and levels that are somewhat standard in the US tech industry, every company is different. The roles described in this repository are specific to Layr and the needs of Layr end customers, internal users, and other stakeholders. Our mission is to create the very best technology enabled experience possible for our those that use our software.
+Although the framework uses roles and levels that are somewhat standard in the US tech industry, every company is different. The roles described in this repository are specific to Layr and the needs of Layr end customers, internal users, and other stakeholders. Our mission is to create the very best technology enabled experience possible for our those that use our software.  We are also sensitive to helping you with your career and so provide a litle of synonyms for the roles we use so that you can help future employers understand how you controbuted to Layr.
 
-We expect that the Layr Engineering Paths will change over time as the landscape of sofrware engineering changes.  We encourage all team members to submit pull requests to make the Layr Engineering Paths better serve our customers with the very best experience possible. 
+We expect that the Layr Engineering Ladders will change over time as the landscape of software engineering changes.  We encourage all team members to submit pull requests to make the Layr Engineering Ladders better serve our customers with the very best experience possible. 
 
-The framework relies heavily on radar charts to show visually the different perspectives and expectations of a given position:
+The framework relies heavily role level responsibilities for the different systems necessary to build great software for our customers.  To help you visualize the dimensions of these systems and the degree to which each level impacts that system, we rely heavily on radar charts:
 
-<picture>
-  <source media= srcset="charts/Layr-Engineering-Paths-QE1.png">
-  <img alt="Template Chart" src="charts/Layr-Engineering-Paths-QE1.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path.png "System Dimensions")
 
-We designed these charts to represent the progression in the scope of responsibilities, skills, and accountability's.  As you explore each path ask yourself - how can I level up my skills to achieve the next step in the path? How can I expand my skills to be more valuable to our customers?  We've provided training and expected performance telemetry to help you and hope that you contribute to the conversation about what each rung means. 
+We designed these charts to represent the progression in the scope of responsibilities, skills, and accountability's as they relate to the role responsible for the system.  As you explore each path ask yourself - how can I level up my skills to achieve the next step in the path to have a bigger impact on the system for which I'm responsible? How can I expand my impact on the system to be more valuable to our customers?  We've provided training and expected performance telemetry to help you and hope that you contribute to the conversation about what each rung means. 
 
 # Career Paths
 
@@ -39,9 +36,10 @@ The primary system for team members on this path is the specification program th
 * [**Product Engineer**](Product-Engineer.mdd)
 * [**Product Director**](Product-Director.md)
 
-## [**Engineering Director**](Engineering-Director.md)
+## Engineering Director
 
-This last path is meant for team members who spend all of their time focusing on improving the team to better serve our customers. The primary system for team members on this path is the management program that includes training programs, stragegic alignment of improvement plans, coaching programs, feedback regimens, etc. 
+This last path is meant for team members who spend all of their time focusing on improving the team to better serve our customers. The primary system for team members on this path is the management program that includes training programs, stragegic alignment of improvement plans, coaching programs, feedback regimens, etc.
+* [**Engineering Director**](Engineering-Director.md) 
 
 If you are confused about the difference between a [Software Director](Software-Director.md) and an [Engineering Director](Engineering-Director.md), please refer to the [Software Directror vs Engineering Director](Comparison-Software-Director-Engineering-Director.md) page for a detailed comparison.
 
@@ -67,16 +65,16 @@ If you are confused about the difference between a [Software Director](Software-
 | 6 | [SD6](Software-Director.md#sd6---software-director-6) | [QD6](Quality-Director.md#qd6---quality-director-6) | [DD6](Delivery-Director.md#dd6---delivery-director-6) | [PD5](Product-Director.md#pd6---product-director-6) | [ED6](Engineering-Director.md#ed6---engineering-director-6) |
 | 7 | [SD7](Software-Director.md#sd7---software-director-7) | [QD7](Quality-Director.md#qd7---quality-director-7) | [DD7](Delivery-Director.md#dd7---delivery-director-7) | [PD5](Product-Director.md#pd7---product-director-7) | [ED7](Engineering-Director.md#ed7---engineering-director-7) |
 
-# Axes
+# System Dimensions
 
-The chart shown above has the following 5 axes, each of which are specific to the role:
+Each system, there are 5 different general dimensions, though the specification of each is specific to the role:
 * **Technology**: knowledge of the tech stack and tools used to deliver the primary product for the role
 * **System**: level of ownership of the system(s) that product the primary product fo the role
 * **People**: relationship with the team(s) necessary to deliver the primary product for the role
 * **Process**: level of engagement with engineering process used to create the primary product for the role
 * **Influence**: social network influence of stakeholders in the primary product for the role
 
-The **influence** axis can be seen as a *different dimension* since it is orthogonal and applies to all the other axes.
+The **influence** axis can be seen as a *cross-cutting dimension* since it is orthogonal and applies to all the other dimensions.
 
 Each axis has 5 different levels of performance. It is important to highlight that every level includes the previous one(s). For example, someone that *evangelizes* technology, *specializes* and *adopts* it as well.
 
@@ -130,8 +128,8 @@ Below are the general skill level expectations for each step on the path. These 
 **What if some of the people don't meet all the points?**
 That is very normal, people are usually stronger in some areas and weaker in others. The framework should not be used as a checklist to promote people but instead as guidance to have meaningful career conversations.
 
-**What if I disagree with the Layr Engineering Paths?**
-The Layr Engineering Paths is open to the entire Layr Engineering team.  We invite all members to submit pull requests to improve it.  Furthermore, the Layr Engineerind Paths is in a public repository so anyone can help us improve with your perspectives.
+**What if I disagree with the Layr Engineering Ladders?**
+The Layr Engineering Ladders is open to the entire Layr Engineering team.  We invite all members to submit pull requests to improve it.  Furthermore, the Layr Engineerind Paths is in a public repository so anyone can help us improve with your perspectives.
 
 **When is a person ready to move to the next level?**
 We will measure performance Telemetry through quarterly 360 degree feedback.  We will measure training performance through assessments, certifications, skill demonstrations, etc. To level up your career at Layr your must, at a minimum, meet the training and telemetry expectations for at least one quarter. You must then present your case to the Coaching Team that you have successfully achieved the next scope of your chosen engineering path.

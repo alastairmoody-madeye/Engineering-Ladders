@@ -4,9 +4,9 @@ The primary system for team members on this path is the quality program and incl
 
 | Level | Position |
 | :---: | :---: |
-| 5 | [QD5 - Quality Director 5](#qd5---quality-director-5) |
-| 6 | [QD6 - Quality Director 6](#qd6---quality-director-6) |
-| 7 | [QD7 - Quality Director 7](#qd7---quality-director-7) |
+| 1 | [QD1 - Quality Director 1](#qd1---quality-director-1) |
+| 2 | [QD2 - Quality Director 2](#qd2---quality-director-2) |
+| 3 | [QD3 - Quality Director 3](#qd3---quality-director-3) |
 
 # System Specifics:
 * **Technology**: automated testing tools, code quality assessment tools 
@@ -15,13 +15,9 @@ The primary system for team members on this path is the quality program and incl
 * **Process**: level of engagement with quality engineering processes
 * **Influence**: social network influence
 
-## QD5 - Quality Director 5
+## QD1 - Quality Director 1
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/technicalprogrammanager-5-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/technicalprogrammanager-5.png">
-  <img alt="Quality Director 5" src="/charts/technicalprogrammanager-5.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-QD1.png "Quality Director 1")
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new quality engineering technologies to the team
 * **Owns**: owns the qualioty of production operations and monitoring of the system and is aware of its SLAs
@@ -29,13 +25,9 @@ The primary system for team members on this path is the quality program and incl
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
-## QD6 - Quality Director 6
+## QD2 - Quality Director 2
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/technicalprogrammanager-6-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/technicalprogrammanager-6.png">
-  <img alt="Quality Director 6" src="/charts/technicalprogrammanager-6.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-QD2.png "Quality Director 2")
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Owns**: owns the strategic direction of the system and is aware of its SLAs and operational constraints
@@ -43,13 +35,9 @@ The primary system for team members on this path is the quality program and incl
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Company**: makes an impact on the whole tech organization
 
-## QD7 - Quality Director 7
+## QD3 - Quality Director 3
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/technicalprogrammanager-7-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/technicalprogrammanager-7.png">
-  <img alt="Quality Director 7" src="/charts/technicalprogrammanager-7.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-QD3.png "Quality Director 3")
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Evolves**: evolves the architecture to support future requirements and defines its SLAs

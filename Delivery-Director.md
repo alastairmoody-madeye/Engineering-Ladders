@@ -4,9 +4,9 @@ The primary system for team members on this path is the work discipline program 
 
 | Level | Position |
 | :---: | :---: |
-| 5 | [DD5 - Delivery Director 5](#tpm5---delivery-director-5) |
-| 6 | [DD6 - Delivery Director 6](#tpm6---delivery-director-6) |
-| 7 | [DD7 - Delivery Director 7](#tpm7---delivery-director-7) |
+| 1 | [DD1 - Delivery Director 1](#dd1---delivery-director-1) |
+| 2 | [DD2 - Delivery Director 2](#dd2---delivery-director-2) |
+| 3 | [DD3 - Delivery Director 3](#dd3---delivery-director-3) |
 
 # System Specifics:
 * **Technology**: Issue Management platforms, Agile development, Kanban, performance modeling (e.g., control charts, throughput) 
@@ -15,13 +15,9 @@ The primary system for team members on this path is the work discipline program 
 * **Process**: level of engagement with product engineering processes
 * **Influence**: social network influence
 
-## DD5 - Product Director 5
+## DD1 - Delivery Director 1
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/technicalprogrammanager-5-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/technicalprogrammanager-5.png">
-  <img alt="Product Director 5" src="/charts/technicalprogrammanager-5.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-DD1.png "Delivery Director 1")
 
 * **Specializes**: is the go-to person for one or more products and takes initiative to learn new ones
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt
@@ -29,13 +25,9 @@ The primary system for team members on this path is the work discipline program 
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
-## DD6 - Product Director 6
+## DD2 - Delivery Director 2
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/technicalprogrammanager-6-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/technicalprogrammanager-6.png">
-  <img alt="Product Director 6" src="/charts/technicalprogrammanager-6.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-DD2.png "Delivery Director 2")
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Owns**: owns the strategic direction of the system and is aware of its SLAs and operational constraints
@@ -43,13 +35,9 @@ The primary system for team members on this path is the work discipline program 
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Company**: makes an impact on the whole tech organization
 
-## DD7 - Product Director 7
+## DD3 - Delivery Director 3
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/technicalprogrammanager-7-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/technicalprogrammanager-7.png">
-  <img alt="Product Director 7" src="/charts/technicalprogrammanager-7.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-DD3.png "Delivery Director 3")
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Evolves**: evolves the architecture to support future requirements and defines its SLAs

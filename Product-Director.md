@@ -4,9 +4,9 @@ Role responsible for defining the strategic direction for products. They work wi
 
 | Level | Senior | Position |
 | :---: | :---: | :---: |
-| 5 | Yes | [PD5 - Product Director 5](#tpm5---product-director-5) |
-| 6 | Yes | [PD6 - Product Director 6](#tpm6---product-director-6) |
-| 7 | Yes | [PD7 - Product Director 7](#tpm7---product-director-7) |
+| 1 | Yes | [PD1 - Product Director 1](#tpm1---product-director-1) |
+| 2 | Yes | [PD2 - Product Director 2](#tpm2---product-director-2) |
+| 3 | Yes | [PD3 - Product Director 3](#tpm3---product-director-3) |
 
 # System Specifics:
 * **Technology**: Issue Management platforms,  
@@ -15,13 +15,9 @@ Role responsible for defining the strategic direction for products. They work wi
 * **Process**: level of engagement with product engineering process
 * **Influence**: social network influence
 
-## PD5 - Product Director 5
+## PD1 - Product Director 1
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/technicalprogrammanager-5-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/technicalprogrammanager-5.png">
-  <img alt="Product Director 5" src="/charts/technicalprogrammanager-5.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-PD1.png "Product Director 1")
 
 * **Specializes**: is the go-to person for one or more products and takes initiative to learn new ones
 * **Designs**: specifies requirements for medium to large size enhancements or new capabilities
@@ -29,13 +25,9 @@ Role responsible for defining the strategic direction for products. They work wi
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
-## PD6 - Product Director 6
+## PD2 - Product Director 2
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/technicalprogrammanager-6-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/technicalprogrammanager-6.png">
-  <img alt="Product Director 6" src="/charts/technicalprogrammanager-6.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-PD2.png "Product Director 2")
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Owns**: owns the strategic direction of the system and is aware of its SLAs and operational constraints
@@ -43,13 +35,9 @@ Role responsible for defining the strategic direction for products. They work wi
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Company**: makes an impact on the whole tech organization
 
-## PD7 - Product Director 7
+## PD3 - Product Director 3
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/technicalprogrammanager-7-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/technicalprogrammanager-7.png">
-  <img alt="Product Director 7" src="/charts/technicalprogrammanager-7.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-PD3.png "Product Director 3")
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Evolves**: evolves the architecture to support future requirements and defines its SLAs

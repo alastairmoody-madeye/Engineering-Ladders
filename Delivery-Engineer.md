@@ -18,11 +18,7 @@ The primary system for team members on this path is the work discipline program 
 
 ## DE1 - Delivery Engineer 1
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/delivery-engineer-1.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/delivery-engineer-1.png">
-  <img alt="Delivery Engineer 1" src="/charts/delivery-engineer-1.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-DE1.png "Delivery Engineer 1")
 
 * **Adopts**: actively learns and adopts the project management methodologies and tools defined by the team
 * **Enhances**: updates and enhances project plans for single components of the platform
@@ -32,11 +28,7 @@ The primary system for team members on this path is the work discipline program 
 
 ## DE2 - Delivery Engineer 2
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/delivery-engineer-2.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/delivery-engineer-2.png">
-  <img alt="Delivery Engineer 2" src="/charts/delivery-engineer-2.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-DE2.png "Delivery Engineer 2")
 
 * **Adopts**: actively learns and adopts the project management methodologies and tools defined by the team
 * **Designs**: designs project plans for new initiatives and sets up processes to successfully manage the project
@@ -46,11 +38,7 @@ The primary system for team members on this path is the work discipline program 
 
 ## DE3 - Delivery Engineer 3
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/delivery-engineer-3.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/delivery-engineer-3.png">
-  <img alt="Delivery Engineer 3" src="/charts/delivery-engineer-3.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-DE3.png "Delivery Engineer 3)
 
 * **Specializes**: is the go-to person for the requirements of one or more product / platform features  
 * **Designs**: designs project plans for new initiatives and sets up processes to successfully manage the project
@@ -60,11 +48,7 @@ The primary system for team members on this path is the work discipline program 
 
 ## DE4 - Delivery Engineer 4
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/delivery-engineer-4-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/delivery-engineer-4.png">
-  <img alt="Delivery Director 4" src="/charts/delivery-engineer-4.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-DE4.png "Delivery Engineer 4")
 
 * **Specializes**: is the go-to person for multiple projects and takes initiative to support new ones
 * **Designs**: designs project plans for new initiatives and sets up processes to successfully manage the project

@@ -4,47 +4,35 @@ Accountable for the consistent delivery, career growth, and productivity for all
 
 | Level | Position |
 | :---: | :---: |
-| 5 | [ED5 - Engineering Director 5](#ed5---engineering-director-5) |
-| 6 | [ED6 - Engineering Director 6](#ed6---engineering-director-6) |
-| 7 | [ED7 - Engineering Director 7](#ed7---engineering-director-7) |
+| 1 | [ED1 - Engineering Director 1](#ed1---engineering-director-1) |
+| 2 | [ED2 - Engineering Director 2](#ed2---engineering-director-2) |
+| 3 | [ED3 - Engineering Director 3](#ed3---engineering-director-3) |
 
-## ED5 - Engineering Director 5
+## ED1 - Engineering Director 1
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-5-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/engineeringmanager-5.png">
-  <img alt="Engineering Director 5" src="/charts/engineeringmanager-5.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-EE1.png "Engineering Director 1")
+
+* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
+* **Designs**: designs and implements medium to large size features while reducing the system's tech debt
+* **Manages**: manages team member's career, expectations, performance with and eye towards job satisfaction and productivity and company alignment
+* **Challenges**: challenges the team processes, looking for ways to improve them
+* **One Team**: makes an impact on the whole team, not just on specific parts of it
+
+## ED2 - Engineering Director 2
+
+![System Dimensions](charts/Layr-Engineering-Path-EE2.png "Engineering Director 2")
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
 * **Manages**: manages team member's career, expectations, performance with and eye towards job satisfaction and productivity and company alignment
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **One Team**: makes an impact on the whole team, not just on specific parts of it
+* **Many Teams**: makes an impact not only on the whole team but also on other teams
 
-## ED6 - Engineering Director 6
+## ED3 - Engineering Director 3
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-6-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/engineeringmanager-6.png">
-  <img alt="Engineering Director 6" src="/charts/engineeringmanager-6.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-EE3.png "Engineering Director 3")
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-* **Manages**: manages team member's career, expectations, performance with and eye towards job satisfaction and productivity and company alignment
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **One Team**: makes an impact on the whole team, not just on specific parts of it
-
-## ED7 - Engineering Director 7
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-7-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/engineeringmanager-7.png">
-  <img alt="Engineering Director 7" src="/charts/engineeringmanager-7.png">
-</picture>
-
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
+* **Masters**: has very deep knowledge about the whole technology stack of the system
 * **Evolves**: evolves the architecture to support future requirements and defines its SLAs
 * **Manages**: manages team member's career, expectations, performance with and eye towards job satisfaction and productivity and company alignment
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline

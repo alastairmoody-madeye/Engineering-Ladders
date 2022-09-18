@@ -18,11 +18,7 @@ The primary system for team members on this path is the quality program and incl
 
 ## QE1 - Quality Engineer 1
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/quality-engineer-1.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/quality-engineer-1.png">
-  <img alt="Quality Engineer 1" src="/charts/quality-engineer-1.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-QE1.png "Quality Engineer 1")
 
 * **Adopts**: actively learns and adopts the quality engineering technology and tools defined by the team
 * **Enhances**: successfully pushes enhances existing tests for improvements and extensions to the system
@@ -32,11 +28,7 @@ The primary system for team members on this path is the quality program and incl
 
 ## QE2 - Quality Engineer 2
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/quality-engineer-2.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/quality-engineer-2.png">
-  <img alt="Quality Engineer 2" src="/charts/quality-engineer-2.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-QE2.png "Quality Engineer 2")
 
 * **Adopts**: actively learns and adopts the quality engineering technology and tools defined by the team
 * **Enhances**: successfully pushes enhances existing tests for improvements and extensions to the system
@@ -46,11 +38,7 @@ The primary system for team members on this path is the quality program and incl
 
 ## QE3 - Quality Engineer 3
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/quality-engineer-3.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/quality-engineer-3.png">
-  <img alt="Quality Engineer 3" src="/charts/quality-engineer-3.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-QE3.png "Quality Engineer 3")
 
 * **Specializes**: is the go-to person for one or more quality engineeing technologies and takes initiative to learn new ones
 * **Designs**: designs and implements tests for medium to large size features while maintaining existing tests
@@ -60,11 +48,7 @@ The primary system for team members on this path is the quality program and incl
 
 ## QE4 - Quality Engineer 4
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/quality-engineer-4.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/quality-engineer-4.png">
-  <img alt="Quality Engineer 3" src="/charts/quality-engineer-4.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-QE4.png "Quality Engineer 4")
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new quality engineering technologies to the team
 * **Owns**: owns the qualioty of production operations and monitoring of the system and is aware of its SLAs
