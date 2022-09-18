@@ -4,11 +4,18 @@ Role responsible for defining the strategic direction for products. They work wi
 
 | Level | Senior | Position |
 | :---: | :---: | :---: |
-| 5 | Yes | [PE5 - Product Director 5](#tpm5---product-director-5) |
-| 6 | Yes | [PE6 - Product Director 6](#tpm6---product-director-6) |
-| 7 | Yes | [PE7 - Product Director 7](#tpm7---product-director-7) |
+| 5 | Yes | [PD5 - Product Director 5](#tpm5---product-director-5) |
+| 6 | Yes | [PD6 - Product Director 6](#tpm6---product-director-6) |
+| 7 | Yes | [PD7 - Product Director 7](#tpm7---product-director-7) |
 
-## PE5 - Product Director 5
+# System Specifics:
+* **Technology**: Issue Management platforms,  
+* **System**: product engineering program
+* **People**: relationship with the team(s)
+* **Process**: level of engagement with product engineering process
+* **Influence**: social network influence
+
+## PD5 - Product Director 5
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/technicalprogrammanager-5-dark.png">
@@ -22,7 +29,7 @@ Role responsible for defining the strategic direction for products. They work wi
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
-## PE6 - Product Director 6
+## PD6 - Product Director 6
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/technicalprogrammanager-6-dark.png">
@@ -36,7 +43,7 @@ Role responsible for defining the strategic direction for products. They work wi
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Company**: makes an impact on the whole tech organization
 
-## PE7 - Product Director 7
+## PD7 - Product Director 7
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/technicalprogrammanager-7-dark.png">
@@ -51,10 +58,15 @@ Role responsible for defining the strategic direction for products. They work wi
 * **Community**: makes an impact on the tech community
 
 # Other Pages
-
 * [**Introduction**](README.md)
-* [**Developer**](Developer.md)
-* [**Tech Lead**](Software-Director.md)
-* [**Engineering Manager**](Engineering-Support.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-Engineering-Support.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**Software Engineer**](Software-Engineer.md)
+* [**Software Director**](Software-Director.md) 
+* [**Quality Engineer**](Quality-Engineer.md)
+* [**Quality Director**](Quality-Director.md)
+* [**Delivery Engineer**](Delivery-Engineer.md)
+* [**Delivery Director**](Delivery-Director.md)
+* [**Delivery Engineer**](Delivery-Engineer.md)
+* [**Delivery Director**](Delivery-Director.md)
+* [**Engineering Director**](Engineering-Director.md)
+* [**Software Directror vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
+* [**Directing Directrors**](Directing-Directors.md)

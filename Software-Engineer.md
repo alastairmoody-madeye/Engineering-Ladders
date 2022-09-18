@@ -1,16 +1,23 @@
 # Software Engineer
 
-Role also known as programmer or software engineer, requires a deep level of technical expertise.
+The primary system for team members on this path is software we build to enable our customers, all of the related technologies, and tools.
 
-| Level | Senior | Position |
-| :---: | :---: | :---: |
-| 1 | No | [SE - Software Engineer 1](#se1---software-engineer-1) |
-| 2 | No | [SE - Software Engineer 2](#se2---software-engineer-2) |
-| 3 | No | [SE - Software Engineer 3](#se3---software-engineer-3) |
-| 4 | Yes | [SE - Software Engineer 4](#se4---software-engineer-4) |
-| 5 | Yes | [SE - Software Engineer 5](#se5---software-engineer-5) |
-| 6 | Yes | [SE - Software Engineer 6](#se6---software-engineer-6) |
-| 7 | Yes | [SE - Software Engineer 7](#se7---software-engineer-7) |
+| Level | Position |
+| :---: | :---: |
+| 1 | [SE - Software Engineer 1](#se1---software-engineer-1) |
+| 2 | [SE - Software Engineer 2](#se2---software-engineer-2) |
+| 3 | [SE - Software Engineer 3](#se3---software-engineer-3) |
+| 4 | [SE - Software Engineer 4](#se4---software-engineer-4) |
+| 5 | [SE - Software Engineer 5](#se5---software-engineer-5) |
+| 6 | [SE - Software Engineer 6](#se6---software-engineer-6) |
+| 7 | [SE - Software Engineer 7](#se7---software-engineer-7) |
+
+# System Specifics:
+* **Technology**: cloud infrastructure, application programming languages, infrastructure programming languages, etc   
+* **System**: the running platform and everything that support it (e.g., build processes, deployment, monitoring, etc)
+* **People**: relationship with the team(s)
+* **Process**: level of engagement with software engineering processes
+* **Influence**: social network influence
 
 ## SE1 - Software Engineer 1
 
@@ -110,11 +117,20 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Community**: makes an impact on the tech community
 
-# Other Pages
+# Also Known As
+* Software Developer
+* Developer
 
+# Other Pages
 * [**Introduction**](README.md)
-* [**Tech Lead**](Software-Director.md)
-* [**Technical Program Manager**](DeliveryDirector.md)
-* [**Engineering Manager**](Engineering-Support.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-Engineering-Support.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**Software Engineer**](Software-Engineer.md)
+* [**Software Director**](Software-Director.md) 
+* [**Quality Engineer**](Quality-Engineer.md)
+* [**Quality Director**](Quality-Director.md)
+* [**Delivery Engineer**](Delivery-Engineer.md)
+* [**Delivery Director**](Delivery-Director.md)
+* [**Delivery Engineer**](Delivery-Engineer.md)
+* [**Delivery Director**](Delivery-Director.md)
+* [**Engineering Director**](Engineering-Director.md)
+* [**Software Directror vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
+* [**Directing Directrors**](Directing-Directors.md)

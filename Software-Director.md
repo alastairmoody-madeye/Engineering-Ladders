@@ -1,14 +1,20 @@
 # Software Direcror
 
-Role also known as Software Director, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support.
+The primary system for team members on this path is software we build to enable our customers, all of the related technologies, and tools.
 
-| Level | Senior | Position |
-| :---: | :---: | :---: |
-| 4 | Yes | [SD4 - Software Director 4](#sd4---software-director-4) |
-| 5 | Yes | [SD5 - Software Director 5](#sd5---software-director-5) |
-| 6 | Yes | [SD6 - Software Director 6](#sd6---software-director-6) |
-| 7 | Yes | [SD7 - Software Director 7](#sd7---software-director-7) |
+| Level | Position |
+| :---: | :---: |
+| 4 | [SD4 - Software Director 4](#sd4---software-director-4) |
+| 5 | [SD5 - Software Director 5](#sd5---software-director-5) |
+| 6 | [SD6 - Software Director 6](#sd6---software-director-6) |
+| 7 | [SD7 - Software Director 7](#sd7---software-director-7) |
 
+# System Specifics:
+* **Technology**: cloud infrastructure, application programming languages, infrastructure programming languages, etc   
+* **System**: the running platform and everything that support it (e.g., build processes, deployment, monitoring, etc)
+* **People**: relationship with the team(s)
+* **Process**: level of engagement with software engineering processes
+* **Influence**: social network influence
 
 ## SD4 - Software Director 4
 
@@ -66,11 +72,20 @@ Role also known as Software Director, is the owner of the system and requires a 
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Company**: makes an impact on the whole tech organization
 
-# Other Pages
+# Also Known As
+* Technical / Tech Lead
+* Development Lead
 
+# Other Pages
 * [**Introduction**](README.md)
-* [**Developer**](Developer.md)
-* [**Technical Program Manager**](DeliveryDirector.md)
-* [**Engineering Manager**](Engineering-Support.md)
-* [**Software Director vs Engineering Manager**](TechLead-Engineering-Support.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**Software Engineer**](Software-Engineer.md)
+* [**Software Director**](Software-Director.md) 
+* [**Quality Engineer**](Quality-Engineer.md)
+* [**Quality Director**](Quality-Director.md)
+* [**Delivery Engineer**](Delivery-Engineer.md)
+* [**Delivery Director**](Delivery-Director.md)
+* [**Delivery Engineer**](Delivery-Engineer.md)
+* [**Delivery Director**](Delivery-Director.md)
+* [**Engineering Director**](Engineering-Director.md)
+* [**Software Directror vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
+* [**Directing Directrors**](Directing-Directors.md)

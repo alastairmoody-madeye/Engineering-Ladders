@@ -13,37 +13,37 @@ The framework relies heavily on radar charts to show visually the different pers
   <img alt="Template Chart" src="charts/Layr-Engineering-Paths-QE1.png">
 </picture>
 
-We designed these charts to represent the progression in the scope of responsibilities, skills, and accountabilities.  As you explore each path ask yourself - how can I level up my skills to achieve the next step in the path.  We've provided training and expected telemetry to help you and hope that you contribute to the conversation about what each rung means. 
+We designed these charts to represent the progression in the scope of responsibilities, skills, and accountability's.  As you explore each path ask yourself - how can I level up my skills to achieve the next step in the path? How can I expand my skills to be more valuable to our customers?  We've provided training and expected performance telemetry to help you and hope that you contribute to the conversation about what each rung means. 
 
 # Career Paths
 
-The framework has 5 different paths, each of which is critical to leveling up team memebers who can help Layr create the best technology enabled experience for our customers.  The first four paths have two segments - 
+The framework has 5 different paths, each of which is critical to leveling up team members who can help Layr create the best technology enabled experience for our customers.  Each path is responsible for a system that can be the software we use to ernable our customers or a supporting system used to create that software. We break the first The first four paths have two segments - 
 
-* Engineers - Engineers are generally responsible for building software related things, be it software, automated tests, requirements, or project plans. They may mentor colleagues but do not have management or coordination responsibilities.
-* Directors - Directors are generally responsible for building people related thing meant to support engineers like suport plans to ensure that they have what they need to quickly build high quality in a team they love and for a mission in which they believe, and career plans to help them continuously upgrade their skills. They have deep experience in being an engineer giving them the empathy they need to deeply understand what the team needs to be effective.
+* Engineers - Engineers are generally responsible for building software related things for our customers, be it application software, infrastructure software, automated tests, user experiences, requirements, or project plans. They may mentor colleagues but do not have management or coordination responsibilities.
+* Directors - Directors are generally responsible for building people related thing meant to grow and support engineers. Examples include ensuring that engineers have what they need to quickly build high quality software in a team they love, for a mission in which they believe, and have career plans to help them continuously upgrade their skills. They have deep experience in being an engineer, giving them the empathy they need to deeply understand what the team needs to be effective.
 
 ## Software
-The primary product of team members on this path is high quality software.
-* [**Engineer**](Software-Engineer.md): Responsible for quickly building high quality software that meets business requirements, and setting timeline expectations. Often referred to as a developer.   
-* [**Director**](Software-Director.md): Responsible for helping engineers with architectural decision, technology direction, the system and requires a unique balance between hands-on development, architecture knowledge and production support.  Often referred to as a tech lead.
+The primary system for team members on this path is software we build to enable our customers, all of the related technologies, and tools.
+* [**Software Engineer**](Software-Engineer.md)   
+* [**Software Director**](Software-Director.md)
 ## Quality
-The primary product of team members on this path is automated regression tests for UI's and API's. 
-* [**Engineer**](Quality-Engineer.md):Responsible for building automated regression tests to ensure that software works as expected and still works after enhancements.
-* [**Director**](Quality-Director.md):tbd
+The primary system for team members on this path is the quality program and includes automated regression tests for UI's and API's and related tools that we use to create a high qualituy experience for our customers. 
+* [**Quality Engineer**](Quality-Engineer.md)
+* [**Quality Director**](Quality-Director.md)
 ## Delivery
-The primary product of team members on this path is models that can help the team manage their work, monitor their progress, and identify opportunties to streamline work.
-* [**Engineer**](Delivery-Engineer.md):tbd
-* [**Director**](Delivery-Director.md):tbd
+The primary system for team members on this path is the work discipline program that and includes models that can help the team manage their work, monitor their progress, and identify opportunties to streamline processes.
+* [**Delivery Engineer**](Delivery-Engineer.md)
+* [**Delivery Director**](Delivery-Director.md)
 ## Product
-The primary product of team members on this path is high quality software requirements and clear business direction that will result in a great technology enabled experience for our customers. 
-* [**Engineer**](Product-Engineer.mdd):tbd
-* [**Director**](Product-Director.md):tbd
+The primary system for team members on this path is the specification program that we use to describe the business needs our software must satisfy and include high quality software requirements, market analyses, cost / benefit assessments, and business prioritization. 
+* [**Product Engineer**](Product-Engineer.mdd)
+* [**Product Director**](Product-Director.md)
 
-## [**Engineering Support**](Engineering-Support.md)
+## [**Engineering Director**](Engineering-Director.md)
 
-This last path is meant for team members who spend all of their time producing coaching plans to level up team members to reliably deliver high quality software solutions to our customers. The primary product of team members on this path is strategic guidance to directors on career plans that grow skills that are aligned with the company strategy and market needs.
+This last path is meant for team members who spend all of their time focusing on improving the team to better serve our customers. The primary system for team members on this path is the management program that includes training programs, stragegic alignment of improvement plans, coaching programs, feedback regimens, etc. 
 
-If you are confused about the difference between a [Software Director](Software-Director.md) and an [Engineering Support](Engineering-Support.md), please refer to the [Software Directror vs Engineering Support](TechLead-Engineering-Support.md) page for a detailed comparison.
+If you are confused about the difference between a [Software Director](Software-Director.md) and an [Engineering Director](Engineering-Director.md), please refer to the [Software Directror vs Engineering Director](Comparison-Software-Director-Engineering-Director.md) page for a detailed comparison.
 
 ### Engineers
 (click on position name for more details)
@@ -58,23 +58,23 @@ If you are confused about the difference between a [Software Director](Software-
 | 6 | [SE6](Software-Engineer.md#se6---software-engineer-6) | | | |
 | 7 | [SE7](Software-Engineer.md#se7---software-engineer-7) | | | |
 
-### Directors & Support
+### Directors
 (click on position name for more details)
 
-| Step | [Software](Software-Director.md) | [Quality](Quality-Director.md) | [Delivery](Delivery-Director.md) | [Product](Product-Director.md) |
-| :---: | :---: | :---: | :---: |  :---: |
-| 5 | [SD5](Software-Director.md#sd5---software-director-5) | [QD5](Quality-Director.md#qd5---quality-director-5) | [DD5](Delivery-Director.md#dd5---delivery-director-5) | [PD5](Product-Director.md#pd5---product-director-5) |
-| 6 | [SD6](Software-Director.md#sd6---software-director-6) | [QD6](Quality-Director.md#qd6---quality-director-6) | [DD6](Delivery-Director.md#dd6---delivery-director-6) | [PD5](Product-Director.md#pd6---product-director-6) |
-| 7 | [SD7](Software-Director.md#sd7---software-director-7) | [QD7](Quality-Director.md#qd7---quality-director-7) | [DD7](Delivery-Director.md#dd7---delivery-director-7) | [PD5](Product-Director.md#pd7---product-director-7) |
+| Step | [Software](Software-Director.md) | [Quality](Quality-Director.md) | [Delivery](Delivery-Director.md) | [Product](Product-Director.md) | [Engineering](Engineering-Director.md) |
+| :---: | :---: | :---: | :---: |  :---: | :---: |
+| 5 | [SD5](Software-Director.md#sd5---software-director-5) | [QD5](Quality-Director.md#qd5---quality-director-5) | [DD5](Delivery-Director.md#dd5---delivery-director-5) | [PD5](Product-Director.md#pd5---product-director-5) | [ED5](Engineering-Director.md#ed5---engineering-director-5) |
+| 6 | [SD6](Software-Director.md#sd6---software-director-6) | [QD6](Quality-Director.md#qd6---quality-director-6) | [DD6](Delivery-Director.md#dd6---delivery-director-6) | [PD5](Product-Director.md#pd6---product-director-6) | [ED6](Engineering-Director.md#ed6---engineering-director-6) |
+| 7 | [SD7](Software-Director.md#sd7---software-director-7) | [QD7](Quality-Director.md#qd7---quality-director-7) | [DD7](Delivery-Director.md#dd7---delivery-director-7) | [PD5](Product-Director.md#pd7---product-director-7) | [ED7](Engineering-Director.md#ed7---engineering-director-7) |
 
 # Axes
 
-The chart shown above has the following 5 axes:
-* **Technology**: knowledge of the tech stack and tools
-* **System**: level of ownership of the system(s)
-* **People**: relationship with the team(s)
-* **Process**: level of engagement with engineering process
-* **Influence**: social network influence
+The chart shown above has the following 5 axes, each of which are specific to the role:
+* **Technology**: knowledge of the tech stack and tools used to deliver the primary product for the role
+* **System**: level of ownership of the system(s) that product the primary product fo the role
+* **People**: relationship with the team(s) necessary to deliver the primary product for the role
+* **Process**: level of engagement with engineering process used to create the primary product for the role
+* **Influence**: social network influence of stakeholders in the primary product for the role
 
 The **influence** axis can be seen as a *different dimension* since it is orthogonal and applies to all the other axes.
 
@@ -83,9 +83,9 @@ Each axis has 5 different levels of performance. It is important to highlight th
 Keep reading to better understand each level.
 
 # Levels
-Below are the general skill expectations for each rung in the path. These generally apply to all roles.  For each role, however, there are specific training and performance telemetry expectations specified for the role.
+Below are the general skill level expectations for each step on the path. These generally apply to all roles.  For each role, however, there are specific training and performance telemetry expectations specified for the role for the different skills relevant to that role.
 
-## Technology
+## Technology  
 
 1. **Adopts**: actively learns and adopts the technology and tools defined by the team
 2. **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
@@ -98,7 +98,7 @@ Below are the general skill expectations for each rung in the path. These genera
 1. **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
 2. **Designs**: designs and implements medium to large size features while reducing the system's tech debt
 3. **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-4. **Evolves**: evolves the architecture to support future requirements and defines its SLAs
+4. **Evolves**: evolves the system to support future requirements and defines its SLAs
 5. **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
 
 ## People
@@ -111,7 +111,7 @@ Below are the general skill expectations for each rung in the path. These genera
 
 ## Process
 
-1. **Follows**: follows the team processes, delivering a consistent flow of features to production
+1. **Follows**: follows the team processes, delivering a consistent flow of features to system
 2. **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
 3. **Challenges**: challenges the team processes, looking for ways to improve them
 4. **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
@@ -119,11 +119,11 @@ Below are the general skill expectations for each rung in the path. These genera
 
 ## Influence
 
-1. **Subsystem**: makes an impact on one or more subsystems
-2. **Team**: makes an impact on the whole team, not just on specific parts of it
+1. **Subsystem**: makes an impact on one or more subsystems and within the same role
+2. **Team**: makes an impact on the whole team including members playing other roles
 3. **Multiple Teams**: makes an impact not only his/her team but also on other teams
 4. **Company**: makes an impact on the whole tech organization
-5. **Community**: makes an impact on the tech community
+5. **Community**: makes an impact on their community
 
 # FAQs
 
@@ -164,7 +164,7 @@ Levels 8 and above vary drastically from company to company. Organizations of di
 * [Impact Players](https://impact-players.com): Liz Wisemean explains operate as an individual contributor
 
 # Other Pages
-
+* [**Introduction**](README.md)
 * [**Software Engineer**](Software-Engineer.md)
 * [**Software Director**](Software-Director.md) 
 * [**Quality Engineer**](Quality-Engineer.md)
@@ -173,5 +173,6 @@ Levels 8 and above vary drastically from company to company. Organizations of di
 * [**Delivery Director**](Delivery-Director.md)
 * [**Delivery Engineer**](Delivery-Engineer.md)
 * [**Delivery Director**](Delivery-Director.md)
-* [**Engineering Support**](Engineering-Support.md)
-* [**Software Directror vs Engineering Support**](TechLead-Engineering-Support.md)
+* [**Engineering Director**](Engineering-Director.md)
+* [**Software Directror vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
+* [**Directing Directrors**](Directing-Directors.md)

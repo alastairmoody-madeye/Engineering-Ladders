@@ -111,10 +111,15 @@ Role also known as programmer or software engineer, requires a deep level of tec
 * **Community**: makes an impact on the tech community
 
 # Other Pages
-
 * [**Introduction**](README.md)
-* [**Tech Lead**](Software-Director.md)
-* [**Technical Program Manager**](DeliveryDirector.md)
-* [**Engineering Manager**](Engineering-Support.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-Engineering-Support.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**Software Engineer**](Software-Engineer.md)
+* [**Software Director**](Software-Director.md) 
+* [**Quality Engineer**](Quality-Engineer.md)
+* [**Quality Director**](Quality-Director.md)
+* [**Delivery Engineer**](Delivery-Engineer.md)
+* [**Delivery Director**](Delivery-Director.md)
+* [**Delivery Engineer**](Delivery-Engineer.md)
+* [**Delivery Director**](Delivery-Director.md)
+* [**Engineering Director**](Engineering-Director.md)
+* [**Software Directror vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
+* [**Directing Directrors**](Directing-Directors.md)

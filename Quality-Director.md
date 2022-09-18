@@ -1,12 +1,19 @@
 # Quality Director
 
-Role responsible for defining the strategic direction and team member support for quality engineering. They work with users, engineers, stakeholders, industry experts, market researchers, and perform research in order to define the best path forward for our quality engineering efforts.
+The primary system for team members on this path is the quality program and includes automated regression tests for UI's and API's and related tools that we use to create a high qualituy experience for our customers. 
 
 | Level | Position |
 | :---: | :---: |
 | 5 | [QD5 - Quality Director 5](#qd5---quality-director-5) |
 | 6 | [QD6 - Quality Director 6](#qd6---quality-director-6) |
 | 7 | [QD7 - Quality Director 7](#qd7---quality-director-7) |
+
+# System Specifics:
+* **Technology**: automated testing tools, code quality assessment tools 
+* **System**: quality engineering program
+* **People**: relationship with the team(s)
+* **Process**: level of engagement with quality engineering processes
+* **Influence**: social network influence
 
 ## QD5 - Quality Director 5
 
@@ -50,11 +57,20 @@ Role responsible for defining the strategic direction and team member support fo
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Community**: makes an impact on the tech community
 
-# Other Pages
+# Also Known As
+* QA Lead
+* Test Lead
 
+# Other Pages
 * [**Introduction**](README.md)
-* [**Developer**](Developer.md)
-* [**Tech Lead**](Software-Director.md)
-* [**Engineering Manager**](Engineering-Support.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-Engineering-Support.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**Software Engineer**](Software-Engineer.md)
+* [**Software Director**](Software-Director.md) 
+* [**Quality Engineer**](Quality-Engineer.md)
+* [**Quality Director**](Quality-Director.md)
+* [**Delivery Engineer**](Delivery-Engineer.md)
+* [**Delivery Director**](Delivery-Director.md)
+* [**Delivery Engineer**](Delivery-Engineer.md)
+* [**Delivery Director**](Delivery-Director.md)
+* [**Engineering Director**](Engineering-Director.md)
+* [**Software Directror vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
+* [**Directing Directrors**](Directing-Directors.md)

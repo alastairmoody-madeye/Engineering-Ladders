@@ -9,6 +9,12 @@ Role responsible for working with business leaders, industry experts, customers,
 | 3 | No | [RE3 - Product Engineer 3](#pe3---product-engineer-3) |
 | 4 | No | [RE4 - Product Engineer 4](#pe4---product-engineer-4) |
 
+# System Specifics:
+* **Technology**: issue ianagement platforms
+* **System**: product engineering program
+* **People**: relationship with the team(s)
+* **Process**: level of engagement with product engineering process
+* **Influence**: social network influence
 
 ## PE1 - Product Engineer 1
 
@@ -53,10 +59,15 @@ Role responsible for working with business leaders, industry experts, customers,
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
 # Other Pages
-
 * [**Introduction**](README.md)
-* [**Developer**](Developer.md)
-* [**Tech Lead**](Software-Director.md)
-* [**Engineering Manager**](Engineering-Support.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-Engineering-Support.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**Software Engineer**](Software-Engineer.md)
+* [**Software Director**](Software-Director.md) 
+* [**Quality Engineer**](Quality-Engineer.md)
+* [**Quality Director**](Quality-Director.md)
+* [**Delivery Engineer**](Delivery-Engineer.md)
+* [**Delivery Director**](Delivery-Director.md)
+* [**Delivery Engineer**](Delivery-Engineer.md)
+* [**Delivery Director**](Delivery-Director.md)
+* [**Engineering Director**](Engineering-Director.md)
+* [**Software Directror vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
+* [**Directing Directrors**](Directing-Directors.md)

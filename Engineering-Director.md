@@ -1,19 +1,19 @@
-# Engineering Manager
+# Engineering Director
 
-Role also known as dev manager, is responsible for the consistent delivery, career growth and level of productivity and job satisfaction of the team.
+Accountable for the consistent delivery, career growth, and productivity for all directors and engineers.
 
-| Level | Senior | Position |
-| :---: | :---: | :---: |
-| 5 | Yes | [EM5 - Engineering Manager 5](#em5---engineering-manager-5) |
-| 6 | Yes | [EM6 - Engineering Manager 6](#em6---engineering-manager-6) |
-| 7 | Yes | [EM7 - Engineering Manager 7](#em7---engineering-manager-7) |
+| Level | Position |
+| :---: | :---: |
+| 5 | [ED5 - Engineering Director 5](#ed5---engineering-director-5) |
+| 6 | [ED6 - Engineering Director 6](#ed6---engineering-director-6) |
+| 7 | [ED7 - Engineering Director 7](#ed7---engineering-director-7) |
 
-## EM5 - Engineering Manager 5
+## ED5 - Engineering Director 5
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-5-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="/charts/engineeringmanager-5.png">
-  <img alt="Engineering Manager 5" src="/charts/engineeringmanager-5.png">
+  <img alt="Engineering Director 5" src="/charts/engineeringmanager-5.png">
 </picture>
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
@@ -22,12 +22,12 @@ Role also known as dev manager, is responsible for the consistent delivery, care
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **One Team**: makes an impact on the whole team, not just on specific parts of it
 
-## EM6 - Engineering Manager 6
+## ED6 - Engineering Director 6
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-6-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="/charts/engineeringmanager-6.png">
-  <img alt="Engineering Manager 6" src="/charts/engineeringmanager-6.png">
+  <img alt="Engineering Director 6" src="/charts/engineeringmanager-6.png">
 </picture>
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
@@ -36,12 +36,12 @@ Role also known as dev manager, is responsible for the consistent delivery, care
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **One Team**: makes an impact on the whole team, not just on specific parts of it
 
-## EM7 - Engineering Manager 7
+## ED7 - Engineering Director 7
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/charts/engineeringmanager-7-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="/charts/engineeringmanager-7.png">
-  <img alt="Engineering Manager 7" src="/charts/engineeringmanager-7.png">
+  <img alt="Engineering Director 7" src="/charts/engineeringmanager-7.png">
 </picture>
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
@@ -50,11 +50,20 @@ Role also known as dev manager, is responsible for the consistent delivery, care
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Many Teams**: makes an impact not only on the whole team but also on other teams
 
-# Other Pages
+# Also Known As
+* Engineering Director
+* VP of Engineering
 
+# Other Pages
 * [**Introduction**](README.md)
-* [**Developer**](Developer.md)
-* [**Tech Lead**](Software-Director.md)
-* [**Technical Program Manager**](DeliveryDirector.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-Engineering-Support.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**Software Engineer**](Software-Engineer.md)
+* [**Software Director**](Software-Director.md) 
+* [**Quality Engineer**](Quality-Engineer.md)
+* [**Quality Director**](Quality-Director.md)
+* [**Delivery Engineer**](Delivery-Engineer.md)
+* [**Delivery Director**](Delivery-Director.md)
+* [**Delivery Engineer**](Delivery-Engineer.md)
+* [**Delivery Director**](Delivery-Director.md)
+* [**Engineering Director**](Engineering-Director.md)
+* [**Software Directror vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
+* [**Directing Directrors**](Directing-Directors.md)

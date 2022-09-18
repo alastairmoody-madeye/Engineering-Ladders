@@ -1,13 +1,20 @@
 # Delivery Engineer
 
-Role responsible for engineering the successful completion of projects / initiatives by helping the team identify work, analyze dependencies that could undermine progress, understand progress and potential hurdles, and recognizing and remediating process issues. 
+The primary system for team members on this path is the work discipline program that and includes models that can help the team manage their work, monitor their progress, and identify opportunties to streamline processes. 
 
-| Level | Senior | Position |
-| :---: | :---: | :---: |
-| 1 | Yes | [DE1 - Delivery Engineer 1](#de1---delivery-engineer-1) |
-| 2 | Yes | [DE2 - Delivery Engineer 2](#de2---delivery-engineer-2) |
-| 3 | Yes | [DE3 - Delivery Engineer 3](#de3---delivery-engineer-3) |
-| 4 | Yes | [DE4 - Delivery Engineer 4](#de3---delivery-engineer-4) |
+| Level | Position |
+| :---: | :---: |
+| 1 | [DE1 - Delivery Engineer 1](#de1---delivery-engineer-1) |
+| 2 | [DE2 - Delivery Engineer 2](#de2---delivery-engineer-2) |
+| 3 | [DE3 - Delivery Engineer 3](#de3---delivery-engineer-3) |
+| 4 | [DE4 - Delivery Engineer 4](#de3---delivery-engineer-4) |
+
+# System Specifics:
+* **Technology**: Issue Management platforms, Agile development, Kanban, performance modeling (e.g., control charts, throughput) 
+* **System**: work discipline and management
+* **People**: relationship with the team(s)
+* **Process**: level of engagement with product engineering processes
+* **Influence**: social network influence
 
 ## DE1 - Delivery Engineer 1
 
@@ -65,11 +72,21 @@ Role responsible for engineering the successful completion of projects / initiat
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Many Teams**: makes an impact on multiple teams
 
-# Other Pages
+# Also Known As
+* Project Manager
+* Project Administrator
+* PM
 
+# Other Pages
 * [**Introduction**](README.md)
-* [**Developer**](Developer.md)
-* [**Tech Lead**](Software-Director.md)
-* [**Engineering Manager**](Engineering-Support.md)
-* [**Tech Lead vs Engineering Manager**](TechLead-Engineering-Support.md)
-* [**Managing Managers**](Managing-Managers.md)
+* [**Software Engineer**](Software-Engineer.md)
+* [**Software Director**](Software-Director.md) 
+* [**Quality Engineer**](Quality-Engineer.md)
+* [**Quality Director**](Quality-Director.md)
+* [**Delivery Engineer**](Delivery-Engineer.md)
+* [**Delivery Director**](Delivery-Director.md)
+* [**Delivery Engineer**](Delivery-Engineer.md)
+* [**Delivery Director**](Delivery-Director.md)
+* [**Engineering Director**](Engineering-Director.md)
+* [**Software Directror vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
+* [**Directing Directrors**](Directing-Directors.md)
