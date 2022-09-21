@@ -61,9 +61,9 @@ If you are confused about the difference between a [Software Director](Software-
 
 | Step | [Software](Software-Director.md) | [Quality](Quality-Director.md) | [Delivery](Delivery-Director.md) | [Product](Product-Director.md) | [Engineering](Engineering-Director.md) |
 | :---: | :---: | :---: | :---: |  :---: | :---: |
-| 5 | [SD5](Software-Director.md#sd5---software-director-5) | [QD5](Quality-Director.md#qd5---quality-director-5) | [DD5](Delivery-Director.md#dd5---delivery-director-5) | [PD5](Product-Director.md#pd5---product-director-5) | [ED5](Engineering-Director.md#ed5---engineering-director-5) |
-| 6 | [SD6](Software-Director.md#sd6---software-director-6) | [QD6](Quality-Director.md#qd6---quality-director-6) | [DD6](Delivery-Director.md#dd6---delivery-director-6) | [PD5](Product-Director.md#pd6---product-director-6) | [ED6](Engineering-Director.md#ed6---engineering-director-6) |
-| 7 | [SD7](Software-Director.md#sd7---software-director-7) | [QD7](Quality-Director.md#qd7---quality-director-7) | [DD7](Delivery-Director.md#dd7---delivery-director-7) | [PD5](Product-Director.md#pd7---product-director-7) | [ED7](Engineering-Director.md#ed7---engineering-director-7) |
+| 5 | [SD1](Software-Director.md#sd1---software-director-1) | [QD1](Quality-Director.md#qd1---quality-director-1) | [DD1](Delivery-Director.md#dd1---delivery-director-1) | [PD1](Product-Director.md#pd1---product-director-1) | [ED1](Engineering-Director.md#ed1---engineering-director-1) |
+| 6 | [SD2](Software-Director.md#sd2---software-director-2) | [QD2](Quality-Director.md#qd2---quality-director-2) | [DD2](Delivery-Director.md#dd2---delivery-director-2) | [PD2](Product-Director.md#pd2---product-director-2) | [ED2](Engineering-Director.md#ed2---engineering-director-2) |
+| 7 | [SD3](Software-Director.md#sd3---software-director-3) | [QD3](Quality-Director.md#qd3---quality-director-3) | [DD3](Delivery-Director.md#dd3---delivery-director-3) | [PD3](Product-Director.md#pd3---product-director-3) | [ED3](Engineering-Director.md#ed3---engineering-director-3) |
 
 # System Dimensions
 
@@ -85,7 +85,7 @@ Below are the general skill level expectations for each step on the path. These 
 
 ## Technology  
 
-1. **Adopts**: actively learns and adopts the technology and tools defined by the team
+1. **Adopts**: actively learns and adopts the technology and tools defined by the team for the system
 2. **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 3. **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
 4. **Masters**: has very deep knowledge about the whole technology stack of the system

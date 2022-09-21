@@ -27,7 +27,7 @@ The primary system for team members on this path is software we build to enable 
   <img alt="Software Engineer 1" src="/charts/software-engineer-1.png">
 </picture>
 
-* **Adopts**: actively learns and adopts the technology and tools defined by the team
+* **Adopts**: actively learns and adopts the technology and tools defined by the team for the system
 * **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
 * **Learns**: quickly learns from others and consistently steps up when it is required
 * **Follows**: follows the team processes, delivering a consistent flow of features to production
@@ -41,7 +41,7 @@ The primary system for team members on this path is software we build to enable 
   <img alt="Software Engineer 2" src="/charts/software-engineer-2.png">
 </picture>
 
-* **Adopts**: actively learns and adopts the technology and tools defined by the team
+* **Adopts**: actively learns and adopts the technology and tools defined by the team for the system
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt
 * **Supports**: proactively supports other team members and helps them to be successful
 * **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
@@ -127,8 +127,6 @@ The primary system for team members on this path is software we build to enable 
 * [**Software Director**](Software-Director.md) 
 * [**Quality Engineer**](Quality-Engineer.md)
 * [**Quality Director**](Quality-Director.md)
-* [**Delivery Engineer**](Delivery-Engineer.md)
-* [**Delivery Director**](Delivery-Director.md)
 * [**Delivery Engineer**](Delivery-Engineer.md)
 * [**Delivery Director**](Delivery-Director.md)
 * [**Engineering Director**](Engineering-Director.md)
