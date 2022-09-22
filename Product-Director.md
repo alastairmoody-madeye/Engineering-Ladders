@@ -19,7 +19,6 @@ Role responsible for defining the strategic direction for products. They work wi
 
 ![System Dimensions](charts/Layr-Engineering-Path-PD1.png "Product Director 1")
 
-[test](READMNE.md#technology)
 * **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt
 * **Coordinates**: coordinates team members providing effective feedback and moderating discussions
@@ -54,6 +53,8 @@ Role responsible for defining the strategic direction for products. They work wi
 * [**Quality Director**](Quality-Director.md)
 * [**Delivery Engineer**](Delivery-Engineer.md)
 * [**Delivery Director**](Delivery-Director.md)
+* [**Product Engineer**](Product-Engineer.md)
+* [**Product Director**](Product-Director.md)
 * [**Engineering Director**](Engineering-Director.md)
 * [**Software Director vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
 * [**Directing Directors**](Directing-Directors.md)

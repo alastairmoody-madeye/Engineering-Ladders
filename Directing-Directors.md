@@ -95,6 +95,8 @@ In summary, understanding how each Directors is performing on every area is a go
 * [**Quality Director**](Quality-Director.md)
 * [**Delivery Engineer**](Delivery-Engineer.md)
 * [**Delivery Director**](Delivery-Director.md)
+* [**Product Engineer**](Product-Engineer.md)
+* [**Product Director**](Product-Director.md)
 * [**Engineering Director**](Engineering-Director.md)
 * [**Software Director vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
 * [**Directing Directors**](Directing-Directors.md)

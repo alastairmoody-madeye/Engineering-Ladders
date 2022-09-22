@@ -69,6 +69,8 @@ The primary system for team members on this path is the work discipline program 
 * [**Quality Director**](Quality-Director.md)
 * [**Delivery Engineer**](Delivery-Engineer.md)
 * [**Delivery Director**](Delivery-Director.md)
+* [**Product Engineer**](Product-Engineer.md)
+* [**Product Director**](Product-Director.md)
 * [**Engineering Director**](Engineering-Director.md)
 * [**Software Director vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
 * [**Directing Directors**](Directing-Directors.md)
