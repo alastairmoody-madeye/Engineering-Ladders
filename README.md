@@ -1,8 +1,8 @@
 # Introduction
 
-This framework allows managers and directors to have meaningful conversations with engineers about the expectations of each position and how to plan for the next step in their career path at Layr. It may be easy to conclude that the Layr Engineering Ladders represent a structural hierarchy. It is more beneficial to imagine an inverse triangle where the engineers who are workign together to producie software related things (code, tests, requirements, delivery models) are supported by directors who are primarily focused on leveling up the team.
+This framework allows managers and directors to have meaningful conversations with engineers about the expectations of each position and how to plan for the next step in their career path at Layr. It may be easy to conclude that the Layr Engineering Ladders represent a structural hierarchy. It is more beneficial to imagine an inverse triangle where the engineers who are working together to produce software related things (code, tests, requirements, delivery models) are supported by directors who are primarily focused on leveling up the team.
 
-Although the framework uses roles and levels that are somewhat standard in the US tech industry, every company is different. The roles described in this repository are specific to Layr and the needs of Layr end customers, internal users, and other stakeholders. Our mission is to create the very best technology enabled experience possible for our those that use our software.  We are also sensitive to helping you with your career and so provide a litle of synonyms for the roles we use so that you can help future employers understand how you controbuted to Layr.
+Although the framework uses roles and levels that are somewhat standard in the US tech industry, every company is different. The roles described in this repository are specific to Layr and the needs of Layr end customers, internal users, and other stakeholders. Our mission is to create the very best technology enabled experience possible for our those that use our software.  We are also sensitive to helping you with your career and so provide a list of synonyms for the roles we use so that you can help future employers understand how you contributed to Layr.
 
 We expect that the Layr Engineering Ladders will change over time as the landscape of software engineering changes.  We encourage all team members to submit pull requests to make the Layr Engineering Ladders better serve our customers with the very best experience possible. 
 
@@ -13,22 +13,21 @@ The framework relies heavily role level responsibilities for the different syste
 We designed these charts to represent the progression in the scope of responsibilities, skills, and accountability's as they relate to the role responsible for the system.  As you explore each path ask yourself - how can I level up my skills to achieve the next step in the path to have a bigger impact on the system for which I'm responsible? How can I expand my impact on the system to be more valuable to our customers?  We've provided training and expected performance telemetry to help you and hope that you contribute to the conversation about what each rung means. 
 
 # Career Paths
+The framework has different paths, each of which is critical to creating business value for our customers at the lowest cost time and resources.  Each path has two role variations that work in tandem to produce value - 
 
-The framework has 5 different paths, each of which is critical to leveling up team members who can help Layr create the best technology enabled experience for our customers.  Each path is responsible for a system that can be the software we use to ernable our customers or a supporting system used to create that software. We break the first The first four paths have two segments - 
-
-* Engineers - Engineers are generally responsible for building software related things for our customers, be it application software, infrastructure software, automated tests, user experiences, requirements, or project plans. They may mentor colleagues but do not have management or coordination responsibilities.
-* Directors - Directors are generally responsible for building people related thing meant to grow and support engineers. Examples include ensuring that engineers have what they need to quickly build high quality software in a team they love, for a mission in which they believe, and have career plans to help them continuously upgrade their skills. They have deep experience in being an engineer, giving them the empathy they need to deeply understand what the team needs to be effective.
+* Engineers - Engineers are generally responsible for building creating technology enabled experiences for our customers. Examples include application software, infrastructure software, automated tests, requirements, and project plans.
+* Directors - Directors are support engineers, constantly looking for ways to reduce the cost, in time and money, of delivering business value. Examples include ensuring that engineers have what they need to quickly build high quality software in a team they love, for a mission in which they believe, and have career plans to help them continuously upgrade their skills. This could be new processes, technologies, skills, or even cultural changes.  They have deep experience in being an engineer, giving them the empathy they need to deeply understand what the team needs to be effective.
 
 ## Software
 The primary system for team members on this path is software we build to enable our customers, all of the related technologies, and tools.
 * [**Software Engineer**](Software-Engineer.md)   
 * [**Software Director**](Software-Director.md)
 ## Quality
-The primary system for team members on this path is the quality program and includes automated regression tests for UI's and API's and related tools that we use to create a high qualituy experience for our customers. 
+The primary system for team members on this path is the quality program and includes automated regression tests for UI's and API's and related tools that we use to create a high quality experience for our customers. 
 * [**Quality Engineer**](Quality-Engineer.md)
 * [**Quality Director**](Quality-Director.md)
 ## Delivery
-The primary system for team members on this path is the work discipline program that and includes models that can help the team manage their work, monitor their progress, and identify opportunties to streamline processes.
+The primary system for team members on this path is the work discipline program that and includes models that can help the team manage their work, monitor their progress, and identify opportunities to streamline processes.
 * [**Delivery Engineer**](Delivery-Engineer.md)
 * [**Delivery Director**](Delivery-Director.md)
 ## Product
@@ -38,10 +37,10 @@ The primary system for team members on this path is the specification program th
 
 ## Engineering Director
 
-This last path is meant for team members who spend all of their time focusing on improving the team to better serve our customers. The primary system for team members on this path is the management program that includes training programs, stragegic alignment of improvement plans, coaching programs, feedback regimens, etc.
+This last path is meant for team members who spend all of their time focusing on improving the team to better serve our customers. The primary system for team members on this path is the management program that includes training programs, strategic alignment of improvement plans, coaching programs, feedback regimens, etc.
 * [**Engineering Director**](Engineering-Director.md) 
 
-If you are confused about the difference between a [Software Director](Software-Director.md) and an [Engineering Director](Engineering-Director.md), please refer to the [Software Directror vs Engineering Director](Comparison-Software-Director-Engineering-Director.md) page for a detailed comparison.
+If you are confused about the difference between a [Software Director](Software-Director.md) and an [Engineering Director](Engineering-Director.md), please refer to the [Software Director vs Engineering Director](Comparison-Software-Director-Engineering-Director.md) page for a detailed comparison.
 
 ### Engineers
 (click on position name for more details)
@@ -110,7 +109,7 @@ Below are the general skill level expectations for each step on the path. These 
 ## Process
 
 1. **Follows**: follows the team processes, delivering a consistent flow of features to system
-2. **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
+2. **Enforces**: enforces the team processes, making sure everybody understands the benefits and trade-offs
 3. **Challenges**: challenges the team processes, looking for ways to improve them
 4. **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 5. **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
@@ -129,7 +128,7 @@ Below are the general skill level expectations for each step on the path. These 
 That is very normal, people are usually stronger in some areas and weaker in others. The framework should not be used as a checklist to promote people but instead as guidance to have meaningful career conversations.
 
 **What if I disagree with the Layr Engineering Ladders?**
-The Layr Engineering Ladders is open to the entire Layr Engineering team.  We invite all members to submit pull requests to improve it.  Furthermore, the Layr Engineerind Paths is in a public repository so anyone can help us improve with your perspectives.
+The Layr Engineering Ladders is open to the entire Layr Engineering team.  We invite all members to submit pull requests to improve it.  Furthermore, the Layr Engineering Paths is in a public repository so anyone can help us improve with your perspectives.
 
 **When is a person ready to move to the next level?**
 We will measure performance Telemetry through quarterly 360 degree feedback.  We will measure training performance through assessments, certifications, skill demonstrations, etc. To level up your career at Layr your must, at a minimum, meet the training and telemetry expectations for at least one quarter. You must then present your case to the Coaching Team that you have successfully achieved the next scope of your chosen engineering path.
@@ -140,7 +139,7 @@ Layr uses Lattice to collect the necessary data :
 * 360 degree feedback from peers and other teams
 * Quarterly Individual Development Objectives (IDO's) 
 
-In addition to Lattice, Layr also uses tools like LinearB to collect engineering performance.  Finally, we closely monitor team burn-down charts and individual contributions to the burndown. 
+In addition to Lattice, Layr also uses tools like LinearB to collect engineering performance.  Finally, we closely monitor team burn-down charts and individual contributions to the burn-down. 
 
 **Could the framework provide more specific examples of behavior to support each level?**
 Specific examples of behavior require knowledge about the way that the team works, the system architecture and its technology stack. It is recommended to allow each team to define their own examples for each role.
@@ -157,7 +156,7 @@ Levels 8 and above vary drastically from company to company. Organizations of di
 
 * [How to Be Good at Performance Appraisals](https://store.hbr.org/product/how-to-be-good-at-performance-appraisals-simple-effective-done-right/10295): Dick Grote explains in simple terms how to define job responsibilities and how to evaluate performance (results and behaviors).
 
-* [Multipliers](https://multiplers.com): Liz Wisemean explains how to multiply the capabilities of your teammates
+* [Multipliers](https://multiplers.com): Liz Wiseman explains how to multiply the capabilities of your teammates
 
 * [Impact Players](https://impact-players.com): Liz Wisemean explains operate as an individual contributor
 
@@ -172,5 +171,5 @@ Levels 8 and above vary drastically from company to company. Organizations of di
 * [**Delivery Engineer**](Delivery-Engineer.md)
 * [**Delivery Director**](Delivery-Director.md)
 * [**Engineering Director**](Engineering-Director.md)
-* [**Software Directror vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
-* [**Directing Directrors**](Directing-Directors.md)
+* [**Software Director vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
+* [**Directing Directors**](Directing-Directors.md)

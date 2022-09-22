@@ -51,5 +51,5 @@ Accountable for the consistent delivery, career growth, and productivity for all
 * [**Delivery Engineer**](Delivery-Engineer.md)
 * [**Delivery Director**](Delivery-Director.md)
 * [**Engineering Director**](Engineering-Director.md)
-* [**Software Directror vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
-* [**Directing Directrors**](Directing-Directors.md)
+* [**Software Director vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
+* [**Directing Directors**](Directing-Directors.md)

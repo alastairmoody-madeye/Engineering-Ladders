@@ -1,6 +1,6 @@
 # Delivery Director
 
-The primary system for team members on this path is the work discipline program that and includes models that can help the team manage their work, monitor their progress, and identify opportunties to streamline processes. 
+The primary system for team members on this path is the work discipline program that and includes models that can help the team manage their work, monitor their progress, and identify opportunities to streamline processes. 
 
 | Level | Position |
 | :---: | :---: |
@@ -59,5 +59,5 @@ The primary system for team members on this path is the work discipline program 
 * [**Delivery Engineer**](Delivery-Engineer.md)
 * [**Delivery Director**](Delivery-Director.md)
 * [**Engineering Director**](Engineering-Director.md)
-* [**Software Directror vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
-* [**Directing Directrors**](Directing-Directors.md)
+* [**Software Director vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
+* [**Directing Directors**](Directing-Directors.md)

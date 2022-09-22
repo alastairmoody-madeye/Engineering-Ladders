@@ -33,7 +33,7 @@ Role responsible for working with business leaders, industry experts, customers,
 * **Adopts**: actively learns and adopts the technology and tools defined by the team for the system
 * **Designs**: specifies requirements for medium to large size enhancements or new capabilities 
 * **Supports**: proactively supports other team members and helps them to be successful
-* **Enforces**: enforces the team requirements engineering processes, making sure everybody understands the benefits and tradeoffs
+* **Enforces**: enforces the team requirements engineering processes, making sure everybody understands the benefits and trade-offs
 * **Subsystem**: makes an impact on one or more product / platform subsystems
 
 ## PE3 - Product Engineer 3
@@ -65,5 +65,5 @@ Role responsible for working with business leaders, industry experts, customers,
 * [**Delivery Engineer**](Delivery-Engineer.md)
 * [**Delivery Director**](Delivery-Director.md)
 * [**Engineering Director**](Engineering-Director.md)
-* [**Software Directror vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
-* [**Directing Directrors**](Directing-Directors.md)
+* [**Software Director vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
+* [**Directing Directors**](Directing-Directors.md)

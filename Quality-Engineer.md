@@ -1,6 +1,6 @@
 # Quality Engineer
 
-The primary system for team members on this path is the quality program and includes automated regression tests for UI's and API's and related tools that we use to create a high qualituy experience for our customers. 
+The primary system for team members on this path is the quality program and includes automated regression tests for UI's and API's and related tools that we use to create a high quality experience for our customers. 
 
 | Level | Senior | Position |
 | :---: | :---: | :---: |
@@ -40,7 +40,7 @@ The primary system for team members on this path is the quality program and incl
 
 ![System Dimensions](charts/Layr-Engineering-Path-QE3.png "Quality Engineer 3")
 
-* **Specializes**: is the go-to person for one or more quality engineeing technologies and takes initiative to learn new ones
+* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Designs**: designs and implements tests for medium to large size features while maintaining existing tests
 * **Supports**: proactively supports other team members and helps them to be successful
 * **Challenges**: challenges the team processes, looking for ways to improve them
@@ -51,7 +51,7 @@ The primary system for team members on this path is the quality program and incl
 ![System Dimensions](charts/Layr-Engineering-Path-QE4.png "Quality Engineer 4")
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new quality engineering technologies to the team
-* **Owns**: owns the qualioty of production operations and monitoring of the system and is aware of its SLAs
+* **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
 * **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
@@ -71,5 +71,5 @@ The primary system for team members on this path is the quality program and incl
 * [**Delivery Engineer**](Delivery-Engineer.md)
 * [**Delivery Director**](Delivery-Director.md)
 * [**Engineering Director**](Engineering-Director.md)
-* [**Software Directror vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
-* [**Directing Directrors**](Directing-Directors.md)
+* [**Software Director vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
+* [**Directing Directors**](Directing-Directors.md)

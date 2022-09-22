@@ -21,11 +21,7 @@ The primary system for team members on this path is software we build to enable 
 
 ## SE1 - Software Engineer 1
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/software-engineer-1-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/software-engineer-1.png">
-  <img alt="Software Engineer 1" src="/charts/software-engineer-1.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-SE1.png "Software Engineer 1")
 
 * **Adopts**: actively learns and adopts the technology and tools defined by the team for the system
 * **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
@@ -35,25 +31,17 @@ The primary system for team members on this path is software we build to enable 
 
 ## SE2 - Software Engineer 2
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/software-engineer-2-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/software-engineer-2.png">
-  <img alt="Software Engineer 2" src="/charts/software-engineer-2.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-SE2.png "Software Engineer 2")
 
 * **Adopts**: actively learns and adopts the technology and tools defined by the team for the system
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt
 * **Supports**: proactively supports other team members and helps them to be successful
-* **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
+* **Enforces**: enforces the team processes, making sure everybody understands the benefits and trade-offs
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
 ## SE3 - Software Engineer 3
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/software-engineer-3-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/software-engineer-3.png">
-  <img alt="Software Engineer 3" src="/charts/software-engineer-3.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-SE3.png "Software Engineer 3")
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt
@@ -63,11 +51,7 @@ The primary system for team members on this path is software we build to enable 
 
 ## SE4 - Software Engineer 4
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/software-engineer-4-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/software-engineer-4.png">
-  <img alt="Software Engineer 4" src="/charts/software-engineer-4.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-SE4.png "Software Engineer 4")
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
@@ -77,11 +61,7 @@ The primary system for team members on this path is software we build to enable 
 
 ## SE5 - Software Engineer 5
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/software-engineer-5-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/software-engineer-5.png">
-  <img alt="Software Engineer 5" src="/charts/software-engineer-5.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-SE5.png "Software Engineer 5")
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
 * **Evolves**: evolves the architecture to support future requirements and defines its SLAs
@@ -91,11 +71,7 @@ The primary system for team members on this path is software we build to enable 
 
 ## SE6 - Software Engineer 6
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/software-engineer-6-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/software-engineer-6.png">
-  <img alt="Software Engineer 6" src="/charts/software-engineer-6.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-SE6.png "Software Engineer 6")
 
 * **Creates**: designs and creates new technologies that are widely used either by internal or external teams
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
@@ -105,11 +81,7 @@ The primary system for team members on this path is software we build to enable 
 
 ## SE7 - Software Engineer 7
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/software-engineer-7-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/software-engineer-7.png">
-  <img alt="Software Engineer 7" src="/charts/software-engineer-7.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-SE7.png "Software Engineer 7")
 
 * **Creates**: designs and creates new technologies that are widely used either by internal or external teams
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
@@ -130,5 +102,5 @@ The primary system for team members on this path is software we build to enable 
 * [**Delivery Engineer**](Delivery-Engineer.md)
 * [**Delivery Director**](Delivery-Director.md)
 * [**Engineering Director**](Engineering-Director.md)
-* [**Software Directror vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
-* [**Directing Directrors**](Directing-Directors.md)
+* [**Software Director vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
+* [**Directing Directors**](Directing-Directors.md)

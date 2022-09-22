@@ -17,11 +17,7 @@ The primary system for team members on this path is software we build to enable 
 
 ## SD1 - Software Director 1
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/techlead-1-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/techlead-1.png">
-  <img alt="Software Director 1" src="/charts/techlead-1.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-SD1.png "Software Director 1")
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
 * **Evolves**: evolves the architecture to support future requirements and defines its SLAs
@@ -31,11 +27,7 @@ The primary system for team members on this path is software we build to enable 
 
 ## SD2 - Software Director 2
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/techlead-2-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/techlead-2.png">
-  <img alt="Software Director 2" src="/charts/techlead-2.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-SD2.png "Software Director 2")
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
@@ -45,11 +37,7 @@ The primary system for team members on this path is software we build to enable 
 
 ## SD3 - Software Director 3
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/charts/techlead-3-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/charts/techlead-3.png">
-  <img alt="Software Director 3" src="/charts/techlead-3.png">
-</picture>
+![System Dimensions](charts/Layr-Engineering-Path-SD3.png "Software Director 3")
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
@@ -70,5 +58,5 @@ The primary system for team members on this path is software we build to enable 
 * [**Delivery Engineer**](Delivery-Engineer.md)
 * [**Delivery Director**](Delivery-Director.md)
 * [**Engineering Director**](Engineering-Director.md)
-* [**Software Directror vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
-* [**Directing Directrors**](Directing-Directors.md)
+* [**Software Director vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
+* [**Directing Directors**](Directing-Directors.md)

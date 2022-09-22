@@ -1,6 +1,6 @@
 # Quality Director
 
-The primary system for team members on this path is the quality program and includes automated regression tests for UI's and API's and related tools that we use to create a high qualituy experience for our customers. 
+The primary system for team members on this path is the quality program and includes automated regression tests for UI's and API's and related tools that we use to create a high quality experience for our customers. 
 
 | Level | Position |
 | :---: | :---: |
@@ -20,7 +20,7 @@ The primary system for team members on this path is the quality program and incl
 ![System Dimensions](charts/Layr-Engineering-Path-QD1.png "Quality Director 1")
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new quality engineering technologies to the team
-* **Owns**: owns the qualioty of production operations and monitoring of the system and is aware of its SLAs
+* **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
 * **Coordinates**: coordinates team members providing effective feedback and moderating discussions
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
@@ -30,7 +30,7 @@ The primary system for team members on this path is the quality program and incl
 ![System Dimensions](charts/Layr-Engineering-Path-QD2.png "Quality Director 2")
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-* **Owns**: owns the strategic direction of the system and is aware of its SLAs and operational constraints
+* **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
 * **Manages**: manages the career, expectations, performance with and eye towards job satisfaction and productivity
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Company**: makes an impact on the whole tech organization
@@ -58,5 +58,5 @@ The primary system for team members on this path is the quality program and incl
 * [**Delivery Engineer**](Delivery-Engineer.md)
 * [**Delivery Director**](Delivery-Director.md)
 * [**Engineering Director**](Engineering-Director.md)
-* [**Software Directror vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
-* [**Directing Directrors**](Directing-Directors.md)
+* [**Software Director vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
+* [**Directing Directors**](Directing-Directors.md)

@@ -1,6 +1,6 @@
 # Delivery Engineer
 
-The primary system for team members on this path is the work discipline program that and includes models that can help the team manage their work, monitor their progress, and identify opportunties to streamline processes. 
+The primary system for team members on this path is the work discipline program that and includes models that can help the team manage their work, monitor their progress, and identify opportunities to streamline processes. 
 
 | Level | Position |
 | :---: | :---: |
@@ -33,7 +33,7 @@ The primary system for team members on this path is the work discipline program 
 * **Adopts**: actively learns and adopts the project management methodologies and tools defined by the team
 * **Designs**: designs project plans for new initiatives and sets up processes to successfully manage the project
 * **Supports**: proactively supports other team members and helps them to be successful
-* **Enforces**: enforces the team processes and data collection, making sure everybody understands the benefits and tradeoffs
+* **Enforces**: enforces the team processes and data collection, making sure everybody understands the benefits and trade-offs
 * **One Team**: makes an impact on one or more product / platform subsystems
 
 ## DE3 - Delivery Engineer 3
@@ -70,5 +70,5 @@ The primary system for team members on this path is the work discipline program 
 * [**Delivery Engineer**](Delivery-Engineer.md)
 * [**Delivery Director**](Delivery-Director.md)
 * [**Engineering Director**](Engineering-Director.md)
-* [**Software Directror vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
-* [**Directing Directrors**](Directing-Directors.md)
+* [**Software Director vs Engineering Support**](Comparison-Software-Director-Engineering-Director.md)
+* [**Directing Directors**](Directing-Directors.md)
