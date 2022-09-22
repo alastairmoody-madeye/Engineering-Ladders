@@ -26,8 +26,8 @@ The primary system for team members on this path is software we build to enable 
 * **Adopts**: actively learns and adopts the technology and tools defined by the team for the system
 * **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
 * **Learns**: quickly learns from others and consistently steps up when it is required
-* **Follows**: follows the team processes, delivering a consistent flow of features to production
-* **Subsystem**: makes an impact on one or more subsystems or team pods
+* **Follows**: follows the team processes, delivering a consistent flow of features to system
+* **Sub Team**: makes an impact on individuals within a team but not the entire team
 
 ## SE2 - Software Engineer 2
 
@@ -37,43 +37,43 @@ The primary system for team members on this path is software we build to enable 
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt
 * **Supports**: proactively supports other team members and helps them to be successful
 * **Enforces**: enforces the team processes, making sure everybody understands the benefits and trade-offs
-* **Subsystem**: makes an impact on one or more subsystems or team pods
+* **Sub Team**: makes an impact on individuals within a team but not the entire team
 
 ## SE3 - Software Engineer 3
 
 ![System Dimensions](charts/Layr-Engineering-Path-SE3.png "Software Engineer 3")
 
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
+* **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt
 * **Supports**: proactively supports other team members and helps them to be successful
 * **Challenges**: challenges the team processes, looking for ways to improve them
-* **Team**: makes an impact on the whole team, not just on specific parts of it
+* **Team**: makes an impact on the whole team including members playing other roles
 
 ## SE4 - Software Engineer 4
 
 ![System Dimensions](charts/Layr-Engineering-Path-SE4.png "Software Engineer 4")
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
+* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team to accelerate the team and reduce costs
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
 * **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 * **Challenges**: challenges the team processes, looking for ways to improve them
-* **Team**: makes an impact on the whole team, not just on specific parts of it
+* **Team**: makes an impact on the whole team including members playing other roles
 
 ## SE5 - Software Engineer 5
 
 ![System Dimensions](charts/Layr-Engineering-Path-SE5.png "Software Engineer 5")
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
-* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
+* **Evolves**: evolves the system to support future requirements and defines its SLAs
 * **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+* **Multiple Teams**: makes an impact not only his/her team but also on other teams
 
 ## SE6 - Software Engineer 6
 
 ![System Dimensions](charts/Layr-Engineering-Path-SE6.png "Software Engineer 6")
 
-* **Creates**: designs and creates new technologies that are widely used either by internal or external teams
+* **Creates**: designs and creates new technologies that are widely used that dramatically accelerate the team and reduce costs
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
 * **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
@@ -83,7 +83,7 @@ The primary system for team members on this path is software we build to enable 
 
 ![System Dimensions](charts/Layr-Engineering-Path-SE7.png "Software Engineer 7")
 
-* **Creates**: designs and creates new technologies that are widely used either by internal or external teams
+* **Creates**: designs and creates new technologies that are widely used that dramatically accelerate the team and reduce costs
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
 * **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes

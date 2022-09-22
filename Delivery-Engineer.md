@@ -20,28 +20,28 @@ The primary system for team members on this path is the work discipline program 
 
 ![System Dimensions](charts/Layr-Engineering-Path-DE1.png "Delivery Engineer 1")
 
-* **Adopts**: actively learns and adopts the project management methodologies and tools defined by the team
-* **Enhances**: updates and enhances project plans for single components of the platform
+* **Adopts**: actively learns and adopts the technology and tools defined by the team for the system
+* **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
 * **Learns**: quickly learns from others and consistently steps up when it is required
-* **Follows**: follows the team processes, collecting data to help the team deliver as efficiently as possible
-* **Subsystem**: makes an impact on one or more product / platform subsystems
+* **Follows**: follows the team processes, delivering a consistent flow of features to system
+* **Sub Team**: makes an impact on individuals within a team but not the entire team
 
 ## DE2 - Delivery Engineer 2
 
 ![System Dimensions](charts/Layr-Engineering-Path-DE2.png "Delivery Engineer 2")
 
-* **Adopts**: actively learns and adopts the project management methodologies and tools defined by the team
-* **Designs**: designs project plans for new initiatives and sets up processes to successfully manage the project
+* **Adopts**: actively learns and adopts the technology and tools defined by the team for the system
+* **Designs**: designs and implements medium to large size features while reducing the system's tech debt
 * **Supports**: proactively supports other team members and helps them to be successful
-* **Enforces**: enforces the team processes and data collection, making sure everybody understands the benefits and trade-offs
+* **Enforces**: enforces the team processes, making sure everybody understands the benefits and trade-offs
 * **One Team**: makes an impact on one or more product / platform subsystems
 
 ## DE3 - Delivery Engineer 3
 
 ![System Dimensions](charts/Layr-Engineering-Path-DE3.png "Delivery Engineer 3)
 
-* **Specializes**: is the go-to person for the requirements of one or more product / platform features  
-* **Designs**: designs project plans for new initiatives and sets up processes to successfully manage the project
+* **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
+* **Designs**: designs and implements medium to large size features while reducing the system's tech debt
 * **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Many Teams**: makes an impact on the whole team, not just on specific parts of it
@@ -50,9 +50,9 @@ The primary system for team members on this path is the work discipline program 
 
 ![System Dimensions](charts/Layr-Engineering-Path-DE4.png "Delivery Engineer 4")
 
-* **Specializes**: is the go-to person for multiple projects and takes initiative to support new ones
-* **Designs**: designs project plans for new initiatives and sets up processes to successfully manage the project
-* **Coordinates**: coordinates with Delivery Managers to provide drive the effective delivery of multiple projects
+* **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
+* **Designs**: designs and implements medium to large size features while reducing the system's tech debt
+* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Many Teams**: makes an impact on multiple teams
 

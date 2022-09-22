@@ -47,8 +47,8 @@ There is sometimes confusion over the difference between a [Software Director](S
 ## System Dimensions
 
 Within each system, there are 5 different commobn dimensions:
-* **Technology**: knowledge of the tech stack and tools used to deliver the primary product for the role
-* **System**: level of ownership of the system(s) that product the primary product fo the role
+* **Technology**: knowledge of the tech stack and tools used to deliver the primary artifact of the system
+* **System**: level of ownership of the system that product the primary product fo the role
 * **People**: relationship with the team(s) necessary to deliver the primary product for the role
 * **Process**: level of engagement with engineering process used to create the primary product for the role
 * **Influence**: social network influence of stakeholders in the primary product for the role
@@ -63,10 +63,10 @@ Below are the general skill level expectations for each dimension in a system.
 #### Technology  
 
 1. **Adopts**: actively learns and adopts the technology and tools defined by the team for the system
-2. **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-3. **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
+2. **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
+3. **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team to accelerate the team and reduce costs
 4. **Masters**: has very deep knowledge about the whole technology stack of the system
-5. **Creates**: designs and creates new technologies that are widely used either by internal or external teams
+5. **Creates**: designs and creates new technologies that are widely used that dramatically accelerate the team and reduce costs
 
 #### System
 
@@ -82,7 +82,7 @@ Below are the general skill level expectations for each dimension in a system.
 2. **Supports**: proactively supports other team members and helps them to be successful
 3. **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 4. **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-5. **Manages**: manages the team members' career, expectations, performance and level of happiness
+5. **Manages**: manages the team members' career, expectations, performance, producivity, and job satisfaction
 
 #### Process
 
@@ -90,11 +90,11 @@ Below are the general skill level expectations for each dimension in a system.
 2. **Enforces**: enforces the team processes, making sure everybody understands the benefits and trade-offs
 3. **Challenges**: challenges the team processes, looking for ways to improve them
 4. **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-5. **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
+5. **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
 
 #### Influence
 
-1. **Subsystem**: makes an impact on one or more subsystems and within the same role
+1. **Sub Team**: makes an impact on individuals within a team but not the entire team
 2. **Team**: makes an impact on the whole team including members playing other roles
 3. **Multiple Teams**: makes an impact not only his/her team but also on other teams
 4. **Company**: makes an impact on the whole tech organization
@@ -109,11 +109,11 @@ By bringing together each of the pieces above -
 * Levels
 
 We can map out the performance profile for every role and level in every system.  For example, let's says that a level three 3 has the following performance profile -
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
+* **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt
 * **Supports**: proactively supports other team members and helps them to be successful
 * **Challenges**: challenges the team processes, looking for ways to improve them
-* **Team**: makes an impact on the whole team, not just on specific parts of it
+* **Team**: makes an impact on the whole team including members playing other roles
 Which has the following profile on the radar -
 ![System Dimensions](charts/Layr-Engineering-Path-SE3.png "Software Engineer 3")
 

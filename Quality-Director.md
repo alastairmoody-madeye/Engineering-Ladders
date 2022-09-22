@@ -19,30 +19,30 @@ The primary system for team members on this path is the quality program and incl
 
 ![System Dimensions](charts/Layr-Engineering-Path-QD1.png "Quality Director 1")
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new quality engineering technologies to the team
+* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team to accelerate the team and reduce costs
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
 * **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+* **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
+* **Multiple Teams**: makes an impact not only his/her team but also on other teams
 
 ## QD2 - Quality Director 2
 
 ![System Dimensions](charts/Layr-Engineering-Path-QD2.png "Quality Director 2")
 
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
+* **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Manages**: manages the career, expectations, performance with and eye towards job satisfaction and productivity
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
+* **Manages**: manages the team members' career, expectations, performance, producivity, and job satisfaction
+* **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
 * **Company**: makes an impact on the whole tech organization
 
 ## QD3 - Quality Director 3
 
 ![System Dimensions](charts/Layr-Engineering-Path-QD3.png "Quality Director 3")
 
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-* **Manages**: manages the team members' career, expectations, performance and level of happiness
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
+* **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
+* **Evolves**: evolves the system to support future requirements and defines its SLAs
+* **Manages**: manages the team members' career, expectations, performance, producivity, and job satisfaction
+* **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
 * **Community**: makes an impact on the tech community
 
 # Also Known As

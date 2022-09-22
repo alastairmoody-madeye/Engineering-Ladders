@@ -19,30 +19,30 @@ Role responsible for defining the strategic direction for products. They work wi
 
 ![System Dimensions](charts/Layr-Engineering-Path-PD1.png "Product Director 1")
 
-* **Specializes**: is the go-to person for one or more products and takes initiative to learn new ones
+* **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt
 * **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+* **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
+* **Multiple Teams**: makes an impact not only his/her team but also on other teams
 
 ## PD2 - Product Director 2
 
 ![System Dimensions](charts/Layr-Engineering-Path-PD2.png "Product Director 2")
 
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-* **Owns**: owns the strategic direction of the system and is aware of its SLAs and operational constraints
-* **Manages**: manages the career, expectations, performance with and eye towards job satisfaction and productivity
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
+* **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
+* **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
+* **Manages**: manages the team members' career, expectations, performance, producivity, and job satisfaction
+* **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
 * **Company**: makes an impact on the whole tech organization
 
 ## PD3 - Product Director 3
 
 ![System Dimensions](charts/Layr-Engineering-Path-PD3.png "Product Director 3")
 
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-* **Manages**: manages the team members' career, expectations, performance and level of happiness
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
+* **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
+* **Evolves**: evolves the system to support future requirements and defines its SLAs
+* **Manages**: manages the team members' career, expectations, performance, producivity, and job satisfaction
+* **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
 * **Community**: makes an impact on the tech community
 
 # Other Pages

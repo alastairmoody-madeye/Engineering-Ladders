@@ -23,38 +23,38 @@ Role responsible for working with business leaders, industry experts, customers,
 * **Adopts**: actively learns and adopts the technology and tools defined by the team for the system
 * **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
 * **Learns**: quickly learns from others and consistently steps up when it is required
-* **Follows**: follows the team processes, delivering a consistent flow of requirements that result in production enhancements
-* **Subsystem**: makes an impact on one or more product / platform subsystems
+* **Follows**: follows the team processes, delivering a consistent flow of features to system
+* **Sub Team**: makes an impact on individuals within a team but not the entire team
 
 ## PE2 - Product Engineer 2
 
 ![System Dimensions](charts/Layr-Engineering-Path-PE2.png "Product Engineer 2")
 
 * **Adopts**: actively learns and adopts the technology and tools defined by the team for the system
-* **Designs**: specifies requirements for medium to large size enhancements or new capabilities 
+* **Designs**: designs and implements medium to large size features while reducing the system's tech debt
 * **Supports**: proactively supports other team members and helps them to be successful
-* **Enforces**: enforces the team requirements engineering processes, making sure everybody understands the benefits and trade-offs
-* **Subsystem**: makes an impact on one or more product / platform subsystems
+* **Enforces**: enforces the team processes, making sure everybody understands the benefits and trade-offs
+* **Sub Team**: makes an impact on individuals within a team but not the entire team
 
 ## PE3 - Product Engineer 3
 
 ![System Dimensions](charts/Layr-Engineering-Path-PE3.png "Product Engineer 3")
 
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-* **Designs**: defines and documents requirements for medium to large size enhancements or new capabilities
+* **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
+* **Designs**: designs and implements medium to large size features while reducing the system's tech debt
 * **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 * **Challenges**: challenges the team processes, looking for ways to improve them
-* **Team**: makes an impact on the whole team, not just on specific parts of it
+* **Team**: makes an impact on the whole team including members playing other roles
 
 ## PE4 - Product Engineer 4
 
 ![System Dimensions](charts/Layr-Engineering-Path-PE4.png "Product Engineer 4")
 
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-* **Designs**: defines and documents requirements for medium to large size enhancements or new capabilities
+* **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
+* **Designs**: designs and implements medium to large size features while reducing the system's tech debt
 * **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+* **Multiple Teams**: makes an impact not only his/her team but also on other teams
 
 # Other Pages
 * [**Introduction**](README.md)

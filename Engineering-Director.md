@@ -12,9 +12,9 @@ Accountable for the consistent delivery, career growth, and productivity for all
 
 ![System Dimensions](charts/Layr-Engineering-Path-EE1.png "Engineering Director 1")
 
-* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
+* **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-* **Manages**: manages team member's career, expectations, performance with and eye towards job satisfaction and productivity and company alignment
+* **Manages**: manages the team members' career, expectations, performance, producivity, and job satisfaction
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **One Team**: makes an impact on the whole team, not just on specific parts of it
 
@@ -22,9 +22,9 @@ Accountable for the consistent delivery, career growth, and productivity for all
 
 ![System Dimensions](charts/Layr-Engineering-Path-EE2.png "Engineering Director 2")
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
+* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team to accelerate the team and reduce costs
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Manages**: manages team member's career, expectations, performance with and eye towards job satisfaction and productivity and company alignment
+* **Manages**: manages the team members' career, expectations, performance, producivity, and job satisfaction
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Many Teams**: makes an impact not only on the whole team but also on other teams
 
@@ -33,9 +33,9 @@ Accountable for the consistent delivery, career growth, and productivity for all
 ![System Dimensions](charts/Layr-Engineering-Path-EE3.png "Engineering Director 3")
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
-* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
-* **Manages**: manages team member's career, expectations, performance with and eye towards job satisfaction and productivity and company alignment
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
+* **Evolves**: evolves the system to support future requirements and defines its SLAs
+* **Manages**: manages the team members' career, expectations, performance, producivity, and job satisfaction
+* **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
 * **Many Teams**: makes an impact not only on the whole team but also on other teams
 
 # Also Known As

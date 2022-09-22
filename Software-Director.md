@@ -19,11 +19,11 @@ The primary system for team members on this path is software we build to enable 
 
 ![System Dimensions](charts/Layr-Engineering-Path-SD1.png "Software Director 1")
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-* **Evolves**: evolves the architecture to support future requirements and defines its SLAs
+* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team to accelerate the team and reduce costs
+* **Evolves**: evolves the system to support future requirements and defines its SLAs
 * **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Team**: makes an impact on the whole team, not just on specific parts of it
+* **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
+* **Team**: makes an impact on the whole team including members playing other roles
 
 ## SD2 - Software Director 2
 
@@ -32,8 +32,8 @@ The primary system for team members on this path is software we build to enable 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
 * **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-* **Multiple Teams**: makes an impact not only on the whole team but also on other teams
+* **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
+* **Multiple Teams**: makes an impact not only his/her team but also on other teams
 
 ## SD3 - Software Director 3
 
@@ -42,7 +42,7 @@ The primary system for team members on this path is software we build to enable 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
 * **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
+* **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
 * **Company**: makes an impact on the whole tech organization
 
 # Also Known As
