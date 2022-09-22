@@ -12,7 +12,7 @@ We expect that the Layr Engineering Ladders will change over time as the landsca
 
 We designed these charts to represent the progression in the scope of responsibilities, skills, and accountability's as they relate to the role responsible for the system.  As you explore each path ask yourself - how can I level up my skills to achieve the next step in the path to have a bigger impact on the system for which I'm responsible? How can I expand my impact on the system to be more valuable to our customers?  We've provided training and expected performance telemetry to help you and hope that you contribute to the conversation about what each rung means. 
 
-# Systems & Roles
+# Systems, Roles, Dimensions, Levels
 The framework is composed of different systems, each of which is critical to delivering business value for our customers.
 
 ## Systems
@@ -35,7 +35,7 @@ Different companies use different systems depending on the technology under deve
   * Stories
   * Requirements (e.g., written, diagrams, etc)
 
-## Roles
+## System Roles
 There are two different varieties of roles operating within in each system:
 * Engineers - Engineers are generally responsible for producing artifects directly or indirectly used in the engineering process. Examples include application code, infrastructure code, automated tests, requirements, and project plans.
 * Directors - Directors are primarily focused on team effectiveness, constantly looking for ways to reduce the cost, in time and money, of delivering business value. Examples include ensuring that engineers have what they need to quickly build high quality software in a team they love, for a mission in which they believe, and have career plans to help them continuously upgrade their skills. This could be new processes, technologies, skills, or even cultural changes.  They have deep experience in being an engineer, giving them the empathy they need to deeply understand what the team needs to be effective.
@@ -44,8 +44,80 @@ Consequently, for each system you will find an engineering role and a director r
 
 There is sometimes confusion over the difference between a [Software Director](Software-Director.md) and an [Engineering Director](Engineering-Director.md), please refer to the [Software Director vs Engineering Director](Comparison-Software-Director-Engineering-Director.md) page for a detailed comparison.
 
+## System Dimensions
+
+Within each system, there are 5 different commobn dimensions:
+* **Technology**: knowledge of the tech stack and tools used to deliver the primary product for the role
+* **System**: level of ownership of the system(s) that product the primary product fo the role
+* **People**: relationship with the team(s) necessary to deliver the primary product for the role
+* **Process**: level of engagement with engineering process used to create the primary product for the role
+* **Influence**: social network influence of stakeholders in the primary product for the role
+
+The **influence** axis can be seen as a *cross-cutting dimension* since it is orthogonal and applies to all the other dimensions.
+
+Each axis has 5 different levels of performance. It is important to highlight that every level includes the previous one(s). For example, someone that *evangelizes* technology, *specializes* and *adopts* it as well.
+
+### Dimension Levels
+Below are the general skill level expectations for each dimension in a system.
+
+#### Technology  
+
+1. **Adopts**: actively learns and adopts the technology and tools defined by the team for the system
+2. **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
+3. **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
+4. **Masters**: has very deep knowledge about the whole technology stack of the system
+5. **Creates**: designs and creates new technologies that are widely used either by internal or external teams
+
+#### System
+
+1. **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
+2. **Designs**: designs and implements medium to large size features while reducing the system's tech debt
+3. **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
+4. **Evolves**: evolves the system to support future requirements and defines its SLAs
+5. **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
+
+#### People
+
+1. **Learns**: quickly learns from others and consistently steps up when it is required
+2. **Supports**: proactively supports other team members and helps them to be successful
+3. **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
+4. **Coordinates**: coordinates team members providing effective feedback and moderating discussions
+5. **Manages**: manages the team members' career, expectations, performance and level of happiness
+
+#### Process
+
+1. **Follows**: follows the team processes, delivering a consistent flow of features to system
+2. **Enforces**: enforces the team processes, making sure everybody understands the benefits and trade-offs
+3. **Challenges**: challenges the team processes, looking for ways to improve them
+4. **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
+5. **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
+
+#### Influence
+
+1. **Subsystem**: makes an impact on one or more subsystems and within the same role
+2. **Team**: makes an impact on the whole team including members playing other roles
+3. **Multiple Teams**: makes an impact not only his/her team but also on other teams
+4. **Company**: makes an impact on the whole tech organization
+5. **Community**: makes an impact on their community
+
+## Role Radar
+
+By bringing together each of the pieces above -
+* System
+* Dimensions
+* Roles
+* Levels
+We can map out the performance profile for every role and level in every system.  For example, a Software Engineer level 3 has the following performance profile -
+* **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
+* **Designs**: designs and implements medium to large size features while reducing the system's tech debt
+* **Supports**: proactively supports other team members and helps them to be successful
+* **Challenges**: challenges the team processes, looking for ways to improve them
+* **Team**: makes an impact on the whole team, not just on specific parts of it
+Which has the following profile on the radar -
+![System Dimensions](charts/Layr-Engineering-Path-SE3.png "Software Engineer 3")
+
+Here are the profiles for each role and level in Layr Engineering team (click on each for more details):
 ### Engineers
-(click on position name for more details)
 
 | Step | [Software](Software-Engineer.md) | [Quality](Quality-Engineer.md) | [Delivery](Delivery-Engineer.md) | [Product](Product-Engineer.md) |
 | :---: | :---: | :---: | :---: |  :---: |
@@ -58,71 +130,12 @@ There is sometimes confusion over the difference between a [Software Director](S
 | 7 | [SE7](Software-Engineer.md#se7---software-engineer-7) | | | |
 
 ### Directors
-(click on position name for more details)
-
 | Step | [Software](Software-Director.md) | [Quality](Quality-Director.md) | [Delivery](Delivery-Director.md) | [Product](Product-Director.md) | [Engineering](Engineering-Director.md) |
 | :---: | :---: | :---: | :---: |  :---: | :---: |
 | 5 | [SD1](Software-Director.md#sd1---software-director-1) | [QD1](Quality-Director.md#qd1---quality-director-1) | [DD1](Delivery-Director.md#dd1---delivery-director-1) | [PD1](Product-Director.md#pd1---product-director-1) | [ED1](Engineering-Director.md#ed1---engineering-director-1) |
 | 6 | [SD2](Software-Director.md#sd2---software-director-2) | [QD2](Quality-Director.md#qd2---quality-director-2) | [DD2](Delivery-Director.md#dd2---delivery-director-2) | [PD2](Product-Director.md#pd2---product-director-2) | [ED2](Engineering-Director.md#ed2---engineering-director-2) |
 | 7 | [SD3](Software-Director.md#sd3---software-director-3) | [QD3](Quality-Director.md#qd3---quality-director-3) | [DD3](Delivery-Director.md#dd3---delivery-director-3) | [PD3](Product-Director.md#pd3---product-director-3) | [ED3](Engineering-Director.md#ed3---engineering-director-3) |
 
-# System Dimensions
-
-Each system, there are 5 different general dimensions, though the specification of each is specific to the role:
-* **Technology**: knowledge of the tech stack and tools used to deliver the primary product for the role
-* **System**: level of ownership of the system(s) that product the primary product fo the role
-* **People**: relationship with the team(s) necessary to deliver the primary product for the role
-* **Process**: level of engagement with engineering process used to create the primary product for the role
-* **Influence**: social network influence of stakeholders in the primary product for the role
-
-The **influence** axis can be seen as a *cross-cutting dimension* since it is orthogonal and applies to all the other dimensions.
-
-Each axis has 5 different levels of performance. It is important to highlight that every level includes the previous one(s). For example, someone that *evangelizes* technology, *specializes* and *adopts* it as well.
-
-Keep reading to better understand each level.
-
-# Levels
-Below are the general skill level expectations for each step on the path. These generally apply to all roles.  For each role, however, there are specific training and performance telemetry expectations specified for the role for the different skills relevant to that role.
-
-## Technology  
-
-1. **Adopts**: actively learns and adopts the technology and tools defined by the team for the system
-2. **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
-3. **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
-4. **Masters**: has very deep knowledge about the whole technology stack of the system
-5. **Creates**: designs and creates new technologies that are widely used either by internal or external teams
-
-## System
-
-1. **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
-2. **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-3. **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-4. **Evolves**: evolves the system to support future requirements and defines its SLAs
-5. **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
-
-## People
-
-1. **Learns**: quickly learns from others and consistently steps up when it is required
-2. **Supports**: proactively supports other team members and helps them to be successful
-3. **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
-4. **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-5. **Manages**: manages the team members' career, expectations, performance and level of happiness
-
-## Process
-
-1. **Follows**: follows the team processes, delivering a consistent flow of features to system
-2. **Enforces**: enforces the team processes, making sure everybody understands the benefits and trade-offs
-3. **Challenges**: challenges the team processes, looking for ways to improve them
-4. **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-5. **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
-
-## Influence
-
-1. **Subsystem**: makes an impact on one or more subsystems and within the same role
-2. **Team**: makes an impact on the whole team including members playing other roles
-3. **Multiple Teams**: makes an impact not only his/her team but also on other teams
-4. **Company**: makes an impact on the whole tech organization
-5. **Community**: makes an impact on their community
 
 # FAQs
 
