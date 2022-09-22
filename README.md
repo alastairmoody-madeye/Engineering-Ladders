@@ -1,46 +1,48 @@
 # Introduction
 
-This framework allows managers and directors to have meaningful conversations with engineers about the expectations of each position and how to plan for the next step in their career path at Layr. It may be easy to conclude that the Layr Engineering Ladders represent a structural hierarchy. It is more beneficial to imagine an inverse triangle where the engineers who are working together to produce software related things (code, tests, requirements, delivery models) are supported by directors who are primarily focused on leveling up the team.
+This framework allows managers and directors to have meaningful conversations with engineers about the expectations of each position and how to plan for the next step in their career path at Layr.  Although the framework uses roles and levels that are somewhat standard in the US tech industry, every company is different. The roles described in this repository are specific to Layr and the needs of Layr customers, internal users, and other stakeholders. We provide an "Also Known As" section for each role to help you communicate externally.
 
-Although the framework uses roles and levels that are somewhat standard in the US tech industry, every company is different. The roles described in this repository are specific to Layr and the needs of Layr end customers, internal users, and other stakeholders. Our mission is to create the very best technology enabled experience possible for our those that use our software.  We are also sensitive to helping you with your career and so provide a list of synonyms for the roles we use so that you can help future employers understand how you contributed to Layr.
+Our mission is to create the very best technology enabled experience possible for our those that use our software.  That means constantly improving our software, tooling, processes, team members, and culture. Use this document to plan out that journey for yourself.
 
 We expect that the Layr Engineering Ladders will change over time as the landscape of software engineering changes.  We encourage all team members to submit pull requests to make the Layr Engineering Ladders better serve our customers with the very best experience possible. 
 
-The framework relies heavily role level responsibilities for the different systems necessary to build great software for our customers.  To help you visualize the dimensions of these systems and the degree to which each level impacts that system, we rely heavily on radar charts:
+ There are a number of different systems at play in that work together to create a great, high value experience for our customers. The framework relies heavily role level responsibilities for the different systems necessary to deliver value to our customers.  To help you visualize the dimensions of these systems and the degree to which each level impacts that system, we rely heavily on radar charts:
 
 ![System Dimensions](charts/Layr-Engineering-Path.png "System Dimensions")
 
 We designed these charts to represent the progression in the scope of responsibilities, skills, and accountability's as they relate to the role responsible for the system.  As you explore each path ask yourself - how can I level up my skills to achieve the next step in the path to have a bigger impact on the system for which I'm responsible? How can I expand my impact on the system to be more valuable to our customers?  We've provided training and expected performance telemetry to help you and hope that you contribute to the conversation about what each rung means. 
 
-# Career Paths
-The framework has different paths, each of which is critical to creating business value for our customers at the lowest cost time and resources.  Each path has two role variations that work in tandem to produce value - 
+# Systems & Roles
+The framework is composed of different systems, each of which is critical to delivering business value for our customers.
 
-* Engineers - Engineers are generally responsible for building creating technology enabled experiences for our customers. Examples include application software, infrastructure software, automated tests, requirements, and project plans.
-* Directors - Directors are support engineers, constantly looking for ways to reduce the cost, in time and money, of delivering business value. Examples include ensuring that engineers have what they need to quickly build high quality software in a team they love, for a mission in which they believe, and have career plans to help them continuously upgrade their skills. This could be new processes, technologies, skills, or even cultural changes.  They have deep experience in being an engineer, giving them the empathy they need to deeply understand what the team needs to be effective.
+## Systems
+For our purposes, the definition of a system, is -
 
-## Software
-The primary system for team members on this path is software we build to enable our customers, all of the related technologies, and tools.
-* [**Software Engineer**](Software-Engineer.md)   
-* [**Software Director**](Software-Director.md)
-## Quality
-The primary system for team members on this path is the quality program and includes automated regression tests for UI's and API's and related tools that we use to create a high quality experience for our customers. 
-* [**Quality Engineer**](Quality-Engineer.md)
-* [**Quality Director**](Quality-Director.md)
-## Delivery
-The primary system for team members on this path is the work discipline program that and includes models that can help the team manage their work, monitor their progress, and identify opportunities to streamline processes.
-* [**Delivery Engineer**](Delivery-Engineer.md)
-* [**Delivery Director**](Delivery-Director.md)
-## Product
-The primary system for team members on this path is the specification program that we use to describe the business needs our software must satisfy and include high quality software requirements, market analyses, cost / benefit assessments, and business prioritization. 
-* [**Product Engineer**](Product-Engineer.mdd)
-* [**Product Director**](Product-Director.md)
+_"A combination of people, technologies, and processes that produce artifacts used as inputs to high-value technology enabled experiences for our customers"_
 
-## Engineering Director
+Different companies use different systems depending on the technology under development.  The Layr Engineering team determine that the following systems are necessary to deliver for our customers, users, and stakeholders -
+* Software
+  * Application & Infrastructure code
+  * Build processes
+  * Architectural diagrams
+* Quality
+  * Testing plans
+  * Autoamted testing code for UI's & API's
+* Delivery
+  * Delivery roadmaps
+  * Performance metrics
+* Product
+  * Stories
+  * Requirements (e.g., written, diagrams, etc)
 
-This last path is meant for team members who spend all of their time focusing on improving the team to better serve our customers. The primary system for team members on this path is the management program that includes training programs, strategic alignment of improvement plans, coaching programs, feedback regimens, etc.
-* [**Engineering Director**](Engineering-Director.md) 
+## Roles
+There are two different varieties of roles operating within in each system:
+* Engineers - Engineers are generally responsible for producing artifects directly or indirectly used in the engineering process. Examples include application code, infrastructure code, automated tests, requirements, and project plans.
+* Directors - Directors are primarily focused on team effectiveness, constantly looking for ways to reduce the cost, in time and money, of delivering business value. Examples include ensuring that engineers have what they need to quickly build high quality software in a team they love, for a mission in which they believe, and have career plans to help them continuously upgrade their skills. This could be new processes, technologies, skills, or even cultural changes.  They have deep experience in being an engineer, giving them the empathy they need to deeply understand what the team needs to be effective.
 
-If you are confused about the difference between a [Software Director](Software-Director.md) and an [Engineering Director](Engineering-Director.md), please refer to the [Software Director vs Engineering Director](Comparison-Software-Director-Engineering-Director.md) page for a detailed comparison.
+Consequently, for each system you will find an engineering role and a director role. So, who is responsible for the effectiveness of directors and the team as a whole?  This responsibility falls to the [**Engineering Director**](Engineering-Director.md). Using [RACI](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) vernacular, the Engineering Director is generally accountable for the effectiveness of the entire engineering team across all systems while engineering directors are responsible for the effectiveness of teams operating within their system. To better understand how this works refer to this overview on [directing directors](Directing-Directors.md)
+
+There is sometimes confusion over the difference between a [Software Director](Software-Director.md) and an [Engineering Director](Engineering-Director.md), please refer to the [Software Director vs Engineering Director](Comparison-Software-Director-Engineering-Director.md) page for a detailed comparison.
 
 ### Engineers
 (click on position name for more details)

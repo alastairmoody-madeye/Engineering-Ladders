@@ -46,8 +46,10 @@ The primary system for team members on this path is software we build to enable 
 * **Company**: makes an impact on the whole tech organization
 
 # Also Known As
-* Technical / Tech Lead
+* Technical Lead
+* Tech Lead
 * Development Lead
+* Architect
 
 # Other Pages
 * [**Introduction**](README.md)
