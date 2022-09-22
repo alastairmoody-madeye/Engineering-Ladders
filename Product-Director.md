@@ -19,31 +19,31 @@ Role responsible for defining the strategic direction for products. They work wi
 
 ![System Dimensions](charts/Layr-Engineering-Path-PD1.png "Product Director 1")
 
-* **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
-* **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
-* **Multiple Teams**: makes an impact not only his/her team but also on other teams
+* **[Technology](README.md#technology) - Specializes**
+* **[System](README.md#technology) - Designs**
+* **[People](README.md#people) - Coordinates**
+* **[Process](README.md#process) - Defines**
+* **[Influence](README.md#influence) - Multiple Teams**
 
 ## PD2 - Product Director 2
 
 ![System Dimensions](charts/Layr-Engineering-Path-PD2.png "Product Director 2")
 
-* **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
-* **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Manages**: manages the team members' career, expectations, performance, productivity, and job satisfaction
-* **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
-* **Company**: makes an impact on the whole tech organization
+* **[Technology](README.md#technology) - Specializes**
+* **[System](README.md#technology) - Owns**
+* **[People](README.md#people) - Manages**
+* **[Process](README.md#process) - Defines**
+* **[Influence](README.md#influence) - Company**
 
 ## PD3 - Product Director 3
 
 ![System Dimensions](charts/Layr-Engineering-Path-PD3.png "Product Director 3")
 
-* **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
-* **Evolves**: evolves the system to support future requirements and defines its SLAs
-* **Manages**: manages the team members' career, expectations, performance, productivity, and job satisfaction
-* **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
-* **Community**: makes an impact on the tech community
+* **[Technology](README.md#technology) - Specializes**
+* **[System](README.md#technology) - Evolves**
+* **[People](README.md#people) - Manages**
+* **[Process](README.md#process) - Defines**
+* **[Influence](README.md#influence) - Community**
 
 # Other Pages
 * [**Introduction**](README.md)

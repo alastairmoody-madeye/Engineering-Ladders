@@ -12,31 +12,31 @@ Accountable for the consistent delivery, career growth, and productivity for all
 
 ![System Dimensions](charts/Layr-Engineering-Path-EE1.png "Engineering Director 1")
 
-* **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
-* **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-* **Manages**: manages the team members' career, expectations, performance, productivity, and job satisfaction
-* **Challenges**: challenges the team processes, looking for ways to improve them
-* **One Team**: makes an impact on the whole team, not just on specific parts of it
+* **[Technology](README.md#technology) - Specializes**
+* **[System](README.md#technology) - Designs**
+* **[People](README.md#people) - Manages**
+* **[Process](README.md#process) - Challenges**
+* **[Influence](README.md#influence) - Team**
 
 ## ED2 - Engineering Director 2
 
 ![System Dimensions](charts/Layr-Engineering-Path-EE2.png "Engineering Director 2")
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team to accelerate the team and reduce costs
-* **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Manages**: manages the team members' career, expectations, performance, productivity, and job satisfaction
-* **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
-* **Many Teams**: makes an impact not only on the whole team but also on other teams
+* **[Technology](README.md#technology) - Evangelizes**
+* **[System](README.md#technology) - Owns**
+* **[People](README.md#people) - Manages**
+* **[Process](README.md#process) - Adjusts**
+* **[Influence](README.md#influence) - Many Teams**
 
 ## ED3 - Engineering Director 3
 
 ![System Dimensions](charts/Layr-Engineering-Path-EE3.png "Engineering Director 3")
 
-* **Masters**: has very deep knowledge about the whole technology stack of the system
-* **Evolves**: evolves the system to support future requirements and defines its SLAs
-* **Manages**: manages the team members' career, expectations, performance, productivity, and job satisfaction
-* **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
-* **Many Teams**: makes an impact not only on the whole team but also on other teams
+* **[Technology](README.md#technology) - Masters**
+* **[System](README.md#technology) - Evolves**
+* **[People](README.md#people) - Manages**
+* **[Process](README.md#process) - Defines**
+* **[Influence](README.md#influence) - Many Teams**
 
 # Also Known As
 * Engineering Director

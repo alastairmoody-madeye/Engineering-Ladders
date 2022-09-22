@@ -96,7 +96,7 @@ Below are the general skill level expectations for each dimension in a system.
 
 1. **Sub Team**: makes an impact on individuals within a team but not the entire team
 2. **Team**: makes an impact on the whole team including members playing other roles
-3. **Multiple Teams**: makes an impact not only his/her team but also on other teams
+3. **Many Teams**: makes an impact not only his/her team but also on other teams
 4. **Company**: makes an impact on the whole tech organization
 5. **Community**: makes an impact on their community
 

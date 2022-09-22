@@ -19,31 +19,31 @@ The primary system for team members on this path is the work discipline program 
 
 ![System Dimensions](charts/Layr-Engineering-Path-DD1.png "Delivery Director 1")
 
-* **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
-* **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
-* **Multiple Teams**: makes an impact not only his/her team but also on other teams
+* **[Technology](README.md#technology) - Specializes**
+* **[System](README.md#technology) - Designs**
+* **[People](README.md#people) - Coordinates**
+* **[Process](README.md#process) - Defines**
+* **[Influence](README.md#influence) - Multiple Teams**
 
 ## DD2 - Delivery Director 2
 
 ![System Dimensions](charts/Layr-Engineering-Path-DD2.png "Delivery Director 2")
 
-* **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
-* **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Manages**: manages the team members' career, expectations, performance, productivity, and job satisfaction
-* **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
-* **Company**: makes an impact on the whole tech organization
+* **[Technology](README.md#technology) - Specializes**
+* **[System](README.md#technology) - Owns**
+* **[People](README.md#people) - Manages**
+* **[Process](README.md#process) - Defines**
+* **[Influence](README.md#influence) - Company**
 
 ## DD3 - Delivery Director 3
 
 ![System Dimensions](charts/Layr-Engineering-Path-DD3.png "Delivery Director 3")
 
-* **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
-* **Evolves**: evolves the system to support future requirements and defines its SLAs
-* **Manages**: manages the team members' career, expectations, performance, productivity, and job satisfaction
-* **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
-* **Community**: makes an impact on the tech community
+* **[Technology](README.md#technology) - Specializes**
+* **[System](README.md#technology) - Evolves**
+* **[People](README.md#people) - Manages**
+* **[Process](README.md#process) - Defines**
+* **[Influence](README.md#influence) - Community**
 
 # Also Known As
 * Program Manager

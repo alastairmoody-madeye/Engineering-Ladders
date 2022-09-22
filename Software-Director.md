@@ -19,31 +19,31 @@ The primary system for team members on this path is software we build to enable 
 
 ![System Dimensions](charts/Layr-Engineering-Path-SD1.png "Software Director 1")
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team to accelerate the team and reduce costs
-* **Evolves**: evolves the system to support future requirements and defines its SLAs
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
-* **Team**: makes an impact on the whole team including members playing other roles
+* **[Technology](README.md#technology) - Evangelizes**
+* **[System](README.md#technology) - Evolves**
+* **[People](README.md#people) - Coordinates**
+* **[Process](README.md#process) - Defines**
+* **[Influence](README.md#influence) - Team**
 
 ## SD2 - Software Director 2
 
 ![System Dimensions](charts/Layr-Engineering-Path-SD2.png "Software Director 2")
 
-* **Masters**: has very deep knowledge about the whole technology stack of the system
-* **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
-* **Multiple Teams**: makes an impact not only his/her team but also on other teams
+* **[Technology](README.md#technology) - Masters**
+* **[System](README.md#technology) - Leads**
+* **[People](README.md#people) - Coordinates**
+* **[Process](README.md#process) - Defines**
+* **[Influence](README.md#influence) - Multiple Teams**
 
 ## SD3 - Software Director 3
 
 ![System Dimensions](charts/Layr-Engineering-Path-SD3.png "Software Director 3")
 
-* **Masters**: has very deep knowledge about the whole technology stack of the system
-* **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
-* **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-* **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
-* **Company**: makes an impact on the whole tech organization
+* **[Technology](README.md#technology) - Masters**
+* **[System](README.md#technology) - Leads**
+* **[People](README.md#people) - Coordinates**
+* **[Process](README.md#process) - Defines**
+* **[Influence](README.md#influence) - Company**
 
 # Also Known As
 * Technical Lead

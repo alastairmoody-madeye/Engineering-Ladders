@@ -20,41 +20,41 @@ The primary system for team members on this path is the quality program and incl
 
 ![System Dimensions](charts/Layr-Engineering-Path-QE1.png "Quality Engineer 1")
 
-* **Adopts**: actively learns and adopts the technology and tools defined by the team for the system
-* **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
-* **Learns**: quickly learns from others and consistently steps up when it is required
-* **Follows**: follows the team processes, delivering a consistent flow of features to system
-* **Sub Team**: makes an impact on individuals within a team but not the entire team
+* **[Technology](README.md#technology) - Adopts**
+* **[System](README.md#technology) - Enhances**
+* **[People](README.md#people) - Learns**
+* **[Process](README.md#process) - Follows**
+* **[Influence](README.md#influence) - Sub Team**
 
 ## QE2 - Quality Engineer 2
 
 ![System Dimensions](charts/Layr-Engineering-Path-QE2.png "Quality Engineer 2")
 
-* **Adopts**: actively learns and adopts the technology and tools defined by the team for the system
-* **Enhances**: successfully pushes new features and bug fixes to improve and extend the system
-* **Learns**: quickly learns from others and consistently steps up when it is required
-* **Follows**: follows the team processes, delivering a consistent flow of features to system
-* **Sub Team**: makes an impact on individuals within a team but not the entire team
+* **[Technology](README.md#technology) - Adopts**
+* **[System](README.md#technology) - Enhances**
+* **[People](README.md#people) - Learns**
+* **[Process](README.md#process) - Follows**
+* **[Influence](README.md#influence) - Sub Team**
 
 ## QE3 - Quality Engineer 3
 
 ![System Dimensions](charts/Layr-Engineering-Path-QE3.png "Quality Engineer 3")
 
-* **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
-* **Designs**: designs and implements medium to large size features while reducing the system's tech debt
-* **Supports**: proactively supports other team members and helps them to be successful
-* **Challenges**: challenges the team processes, looking for ways to improve them
-* **Team**: makes an impact on the whole team including members playing other roles
+* **[Technology](README.md#technology) - Specializes**
+* **[System](README.md#technology) - Designs**
+* **[People](README.md#people) - Supports**
+* **[Process](README.md#process) - Challenges**
+* **[Influence](README.md#influence) - Team**
 
 ## QE4 - Quality Engineer 4
 
 ![System Dimensions](charts/Layr-Engineering-Path-QE4.png "Quality Engineer 4")
 
-* **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team to accelerate the team and reduce costs
-* **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
-* **Challenges**: challenges the team processes, looking for ways to improve them
-* **Team**: makes an impact on the whole team including members playing other roles
+* **[Technology](README.md#technology) - Evangelizes**
+* **[System](README.md#technology) - Owns**
+* **[People](README.md#people) - Mentors**
+* **[Process](README.md#process) - Challenges**
+* **[Influence](README.md#influence) - Team**
 
 # Also Known As
 * Quality Assurance
