@@ -100,14 +100,15 @@ Below are the general skill level expectations for each dimension in a system.
 4. **Company**: makes an impact on the whole tech organization
 5. **Community**: makes an impact on their community
 
-## Role Radar
+## Radar
 
 By bringing together each of the pieces above -
 * System
 * Dimensions
 * Roles
 * Levels
-We can map out the performance profile for every role and level in every system.  For example, a Software Engineer level 3 has the following performance profile -
+
+We can map out the performance profile for every role and level in every system.  For example, let's says that a level three 3 has the following performance profile -
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Designs**: designs and implements medium to large size features while reducing the system's tech debt
 * **Supports**: proactively supports other team members and helps them to be successful
@@ -160,9 +161,9 @@ In addition to Lattice, Layr also uses tools like LinearB to collect engineering
 Specific examples of behavior require knowledge about the way that the team works, the system architecture and its technology stack. It is recommended to allow each team to define their own examples for each role.
 
 **Why do all the software paths except for software stop at level 4?**
-Software engineering has many more dimensions than the other roles including programming language, front-end versus backend, cloud experience, architectural paradigms, etc.  Climbing the software paths typically requires a masters degree and a number of certifications, all of which are difficult to achieve,  This is not to say that the other roles are not as critical to a great customer experience; it is to say that ultimately it is the software engineer's output that the customer will touch directly.
+Software engineering has many more dimensions than the other roles including things like programming languages, front-end versus backend, cloud experience, architectural paradigms, etc. This is not to say that the other roles are not as critical to a great customer experience; it is to say that ultimately it is the software engineer's output that the customer will touch directly and the breadth of knowledge required is extensive.
 
-**Why does the framework stop at level 7?**
+**Why does the framework stop at level 7 for Software Engineers?**
 Levels 8 and above vary drastically from company to company. Organizations of different sizes tend to assign a diverse level of scope to positions so high in their structure.  At our current size, we've determined that 7 levels is more that enough to meet the needs of Layr's customers.
 
 **Do you have any additional resources about the topic?**
