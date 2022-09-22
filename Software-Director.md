@@ -1,4 +1,4 @@
-# Software Direcror
+# Software Director
 
 The primary system for team members on this path is software we build to enable our customers, all of the related technologies, and tools.
 

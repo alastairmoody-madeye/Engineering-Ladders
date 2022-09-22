@@ -27,9 +27,9 @@ Different companies use different systems depending on the technology under deve
   * Architectural diagrams
 * Quality
   * Testing plans
-  * Autoamted testing code for UI's & API's
+  * Automated testing code for UI's & APIs
 * Delivery
-  * Delivery roadmaps
+  * Delivery road-maps
   * Performance metrics
 * Product
   * Stories
@@ -37,7 +37,7 @@ Different companies use different systems depending on the technology under deve
 
 ## System Roles
 There are two different varieties of roles operating within in each system:
-* Engineers - Engineers are generally responsible for producing artifects directly or indirectly used in the engineering process. Examples include application code, infrastructure code, automated tests, requirements, and project plans.
+* Engineers - Engineers are generally responsible for producing artifacts directly or indirectly used in the engineering process. Examples include application code, infrastructure code, automated tests, requirements, and project plans.
 * Directors - Directors are primarily focused on team effectiveness, constantly looking for ways to reduce the cost, in time and money, of delivering business value. Examples include ensuring that engineers have what they need to quickly build high quality software in a team they love, for a mission in which they believe, and have career plans to help them continuously upgrade their skills. This could be new processes, technologies, skills, or even cultural changes.  They have deep experience in being an engineer, giving them the empathy they need to deeply understand what the team needs to be effective.
 
 Consequently, for each system you will find an engineering role and a director role. So, who is responsible for the effectiveness of directors and the team as a whole?  This responsibility falls to the [**Engineering Director**](Engineering-Director.md). Using [RACI](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) vernacular, the Engineering Director is generally accountable for the effectiveness of the entire engineering team across all systems while engineering directors are responsible for the effectiveness of teams operating within their system. To better understand how this works refer to this overview on [directing directors](Directing-Directors.md)
@@ -46,7 +46,7 @@ There is sometimes confusion over the difference between a [Software Director](S
 
 ## System Dimensions
 
-Within each system, there are 5 different commobn dimensions:
+Within each system, there are 5 different common dimensions:
 * **Technology**: knowledge of the tech stack and tools used to deliver the primary artifact of the system
 * **System**: level of ownership of the system that product the primary product fo the role
 * **People**: relationship with the team(s) necessary to deliver the primary product for the role
@@ -82,7 +82,7 @@ Below are the general skill level expectations for each dimension in a system.
 2. **Supports**: proactively supports other team members and helps them to be successful
 3. **Mentors**: mentors others to accelerate their career-growth and encourages them to participate
 4. **Coordinates**: coordinates team members providing effective feedback and moderating discussions
-5. **Manages**: manages the team members' career, expectations, performance, producivity, and job satisfaction
+5. **Manages**: manages the team members' career, expectations, performance, productivity, and job satisfaction
 
 #### Process
 
@@ -174,7 +174,7 @@ Levels 8 and above vary drastically from company to company. Organizations of di
 
 * [Multipliers](https://multiplers.com): Liz Wiseman explains how to multiply the capabilities of your teammates
 
-* [Impact Players](https://impact-players.com): Liz Wisemean explains operate as an individual contributor
+* [Impact Players](https://impact-players.com): Liz Wiseman explains operate as an individual contributor
 
 # Other Pages
 * [**Introduction**](README.md)

@@ -31,7 +31,7 @@ The primary system for team members on this path is the quality program and incl
 
 * **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
-* **Manages**: manages the team members' career, expectations, performance, producivity, and job satisfaction
+* **Manages**: manages the team members' career, expectations, performance, productivity, and job satisfaction
 * **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
 * **Company**: makes an impact on the whole tech organization
 
@@ -41,7 +41,7 @@ The primary system for team members on this path is the quality program and incl
 
 * **Specializes**: is the go-to person for one or more technologies used in the system and takes initiative to learn new ones
 * **Evolves**: evolves the system to support future requirements and defines its SLAs
-* **Manages**: manages the team members' career, expectations, performance, producivity, and job satisfaction
+* **Manages**: manages the team members' career, expectations, performance, productivity, and job satisfaction
 * **Defines**: defines the right processes for the team's system, maturity level, balancing agility and discipline
 * **Community**: makes an impact on the tech community
 
