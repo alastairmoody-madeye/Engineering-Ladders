@@ -36,7 +36,7 @@ Different companies use different systems depending on the technology under deve
   * Requirements (e.g., written, diagrams, etc)
 
 ## System Roles
-There are two different varieties of roles operating within in each system:
+There are two different types of roles operating within in each system:
 * Engineers - Engineers are generally responsible for producing artifacts directly or indirectly used in the engineering process. Examples include application code, infrastructure code, automated tests, requirements, and project plans.
 * Directors - Directors are primarily focused on team effectiveness, constantly looking for ways to reduce the cost, in time and money, of delivering business value. Examples include ensuring that engineers have what they need to quickly build high quality software in a team they love, for a mission in which they believe, and have career plans to help them continuously upgrade their skills. This could be new processes, technologies, skills, or even cultural changes.  They have deep experience in being an engineer, giving them the empathy they need to deeply understand what the team needs to be effective.
 

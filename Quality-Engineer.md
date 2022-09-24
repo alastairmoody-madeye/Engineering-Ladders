@@ -4,10 +4,10 @@ The primary system for team members on this path is the quality program and incl
 
 | Level | Senior | Position |
 | :---: | :---: | :---: |
-| 1 | No | [QE1 - Quality Engineer 1](#pe1---quality-engineer-1) |
-| 2 | No | [QE2 - Quality Engineer 2](#pe2---quality-engineer-2) |
-| 3 | No | [QE3 - Quality Engineer 3](#pe3---quality-engineer-3) |
-| 4 | No | [QE4 - Quality Engineer 4](#pe4---quality-engineer-4) |
+| 1 | No | [QE1 - Quality Engineer 1](#qe1---quality-engineer-1) |
+| 2 | No | [QE2 - Quality Engineer 2](#qe2---quality-engineer-2) |
+| 3 | No | [QE3 - Quality Engineer 3](#qe3---quality-engineer-3) |
+| 4 | No | [QE4 - Quality Engineer 4](#qe4---quality-engineer-4) |
 
 # System Specifics:
 * **Technology**: automated testing tools, code quality assessment tools 
