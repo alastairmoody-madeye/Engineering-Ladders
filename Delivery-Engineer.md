@@ -38,7 +38,7 @@ The primary system for team members on this path is the work discipline program 
 
 ## DE3 - Delivery Engineer 3
 
-![System Dimensions](charts/Layr-Engineering-Path-DE3.png "Delivery Engineer 3)
+![System Dimensions](charts/Layr-Engineering-Path-DE3.png "Delivery Engineer 3")
 
 * **[Technology](README.md#technology) - Specializes**
 * **[System](README.md#technology) - Designs**
